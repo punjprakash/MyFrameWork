@@ -41,9 +41,7 @@ public class OLDOfTestSessionInitiatorExcel {
 	public Mercury_SelectFlight Mercury_SelectFlight;
 	public Mercury_BookAFlight Mercury_BookAFlight;
 	public Mercury_FlightConfirmation Mercury_FlightConfirmation;
-	public VFO VFO;
-	public VNet VNet;
-	public Remedy Remedy;
+;
 
 	public TakeScreenshot takescreenshot;
 
@@ -52,16 +50,11 @@ public class OLDOfTestSessionInitiatorExcel {
 	}
 
 	private void _initPage() {
-	
 		Mercury_HomePage = new Mercury_HomePage(driver);
 		Mercury_FlightFinder = new Mercury_FlightFinder(driver);
 		Mercury_SelectFlight = new Mercury_SelectFlight(driver);
 		Mercury_BookAFlight = new Mercury_BookAFlight(driver);
 		Mercury_FlightConfirmation = new Mercury_FlightConfirmation(driver);
-		VFO = new VFO(driver);
-		VNet=new VNet(driver);
-		Remedy=new Remedy(driver);
-		
 	}
 
 	/**
