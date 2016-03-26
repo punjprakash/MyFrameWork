@@ -284,12 +284,12 @@ The application url is :- http://newtours.demoaut.com/]]>
 ]]>
     </line>
   </reporter-output>
-  <suite name="Test123" duration-ms="11257" started-at="2016-03-26T17:54:01Z" finished-at="2016-03-26T17:54:12Z">
+  <suite name="Test123" duration-ms="12511" started-at="2016-03-26T18:40:14Z" finished-at="2016-03-26T18:40:27Z">
     <groups>
     </groups>
-    <test name="Test123" duration-ms="11257" started-at="2016-03-26T17:54:01Z" finished-at="2016-03-26T17:54:12Z">
+    <test name="Test123" duration-ms="12511" started-at="2016-03-26T18:40:14Z" finished-at="2016-03-26T18:40:27Z">
       <class name="com.qait.tests.MercurySite_SmokeExcel">
-        <test-method status="PASS" signature="OpenBrowserWindow()[pri:0, instance:com.qait.tests.MercurySite_SmokeExcel@7e0babb1]" name="OpenBrowserWindow" is-config="true" duration-ms="5443" started-at="2016-03-26T12:54:01Z" finished-at="2016-03-26T12:54:06Z">
+        <test-method status="PASS" signature="OpenBrowserWindow()[pri:0, instance:com.qait.tests.MercurySite_SmokeExcel@7e0babb1]" name="OpenBrowserWindow" is-config="true" duration-ms="6282" started-at="2016-03-26T13:40:14Z" finished-at="2016-03-26T13:40:20Z">
           <reporter-output>
             <line>
               <![CDATA[****** TestSessionInitiator  ******
@@ -297,7 +297,7 @@ The application url is :- http://newtours.demoaut.com/]]>
             </line>
           </reporter-output>
         </test-method> <!-- OpenBrowserWindow -->
-        <test-method status="PASS" signature="Step00_verifyUserIsOnHomePage(org.testng.ITestResult)[pri:0, instance:com.qait.tests.MercurySite_SmokeExcel@7e0babb1]" name="Step00_verifyUserIsOnHomePage" is-config="true" duration-ms="1" started-at="2016-03-26T12:54:06Z" finished-at="2016-03-26T12:54:06Z">
+        <test-method status="PASS" signature="Step00_verifyUserIsOnHomePage(org.testng.ITestResult)[pri:0, instance:com.qait.tests.MercurySite_SmokeExcel@7e0babb1]" name="Step00_verifyUserIsOnHomePage" is-config="true" duration-ms="1" started-at="2016-03-26T13:40:20Z" finished-at="2016-03-26T13:40:20Z">
           <params>
             <param index="0">
               <value>
@@ -309,7 +309,7 @@ The application url is :- http://newtours.demoaut.com/]]>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Step00_verifyUserIsOnHomePage -->
-        <test-method status="PASS" signature="Step01_Launch_Application_Under_Test()[pri:0, instance:com.qait.tests.MercurySite_SmokeExcel@7e0babb1]" name="Step01_Launch_Application_Under_Test" duration-ms="5424" started-at="2016-03-26T12:54:06Z" finished-at="2016-03-26T12:54:11Z">
+        <test-method status="PASS" signature="Step01_Launch_Application_Under_Test()[pri:0, instance:com.qait.tests.MercurySite_SmokeExcel@7e0babb1]" name="Step01_Launch_Application_Under_Test" duration-ms="5819" started-at="2016-03-26T13:40:20Z" finished-at="2016-03-26T13:40:26Z">
           <reporter-output>
             <line>
               <![CDATA[****** TEST CASE ID :  ******
@@ -587,7 +587,7 @@ The application url is :- http://newtours.demoaut.com/]]>
             </line>
           </reporter-output>
         </test-method> <!-- Step01_Launch_Application_Under_Test -->
-        <test-method status="PASS" signature="take_screenshot_on_failure(org.testng.ITestResult)[pri:0, instance:com.qait.tests.MercurySite_SmokeExcel@7e0babb1]" name="take_screenshot_on_failure" is-config="true" duration-ms="0" started-at="2016-03-26T12:54:11Z" finished-at="2016-03-26T12:54:11Z">
+        <test-method status="PASS" signature="take_screenshot_on_failure(org.testng.ITestResult)[pri:0, instance:com.qait.tests.MercurySite_SmokeExcel@7e0babb1]" name="take_screenshot_on_failure" is-config="true" duration-ms="0" started-at="2016-03-26T13:40:26Z" finished-at="2016-03-26T13:40:26Z">
           <params>
             <param index="0">
               <value>
@@ -599,7 +599,7 @@ The application url is :- http://newtours.demoaut.com/]]>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- take_screenshot_on_failure -->
-        <test-method status="PASS" signature="Close_Test_Session()[pri:0, instance:com.qait.tests.MercurySite_SmokeExcel@7e0babb1]" name="Close_Test_Session" is-config="true" duration-ms="385" started-at="2016-03-26T12:54:11Z" finished-at="2016-03-26T12:54:12Z">
+        <test-method status="PASS" signature="Close_Test_Session()[pri:0, instance:com.qait.tests.MercurySite_SmokeExcel@7e0babb1]" name="Close_Test_Session" is-config="true" duration-ms="403" started-at="2016-03-26T13:40:26Z" finished-at="2016-03-26T13:40:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Close_Test_Session -->

@@ -2,10 +2,10 @@ package com.qait.pages;
 
 import org.openqa.selenium.WebDriver;
 
-import com.qait.automation.getpageobjects.GetPage;
+import com.qait.automation.getpageobjects.CommonActions;
 import com.qait.automation.utils.ConfigPropertyReader;
 
-public class Mercury_FlightConfirmation extends GetPage {
+public class Mercury_FlightConfirmation extends CommonActions {
 
 	WebDriver driver;
 	String pagename = "Mercury_FlightConfirmation";

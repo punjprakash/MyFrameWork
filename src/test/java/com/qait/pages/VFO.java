@@ -2,12 +2,12 @@ package com.qait.pages;
 
 import org.openqa.selenium.WebDriver;
 
-import com.qait.automation.getpageobjects.GetPage;
+import com.qait.automation.getpageobjects.CommonActions;
 import com.qait.automation.utils.ConfigPropertyReader;
 
 import junit.framework.Assert;
 
-public class VFO extends GetPage {
+public class VFO extends CommonActions {
 
 	WebDriver driver;
 	String pagename = "VFO";

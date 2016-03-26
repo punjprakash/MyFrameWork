@@ -22,13 +22,13 @@ import org.openqa.selenium.WebElement;
 
 import com.qait.automation.utils.LayoutValidation;
 
-public class GetPage extends BaseUi {
+public class CopyOfGetPage extends BaseUi {
 
 	protected WebDriver webdriver;
 	String pageName;
 	LayoutValidation layouttest;
 
-	public GetPage(WebDriver driver, String pageName) {
+	public CopyOfGetPage(WebDriver driver, String pageName) {
 		super(driver, pageName);
 		this.webdriver = driver;
 		this.pageName = pageName;

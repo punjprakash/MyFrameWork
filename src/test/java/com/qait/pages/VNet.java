@@ -7,10 +7,10 @@ import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-import com.qait.automation.getpageobjects.GetPage;
+import com.qait.automation.getpageobjects.CommonActions;
 import com.qait.automation.utils.ConfigPropertyReader;
 
-public class VNet extends GetPage {
+public class VNet extends CommonActions {
 
 	WebDriver driver;
 	String pagename = "VNet";

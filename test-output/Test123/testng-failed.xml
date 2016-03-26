@@ -5,13 +5,10 @@
     <classes>
       <class name="com.qait.tests.MercurySite_SmokeExcel">
         <methods>
-          <include name="Step06_TC05_flightConfirmation"/>
-          <include name="Step02_TC01_EnterValidLoginandPassword"/>
-          <include name="Step05_TC04_bookAFlight"/>
           <include name="OpenBrowserWindow"/>
-          <include name="Step04_TC03_selectFlight"/>
+          <include name="Step00_verifyUserIsOnHomePage"/>
           <include name="Close_Test_Session"/>
-          <include name="Step03_TC02_findFlight"/>
+          <include name="take_screenshot_on_failure"/>
           <include name="Step01_Launch_Application_Under_Test"/>
         </methods>
       </class> <!-- com.qait.tests.MercurySite_SmokeExcel -->

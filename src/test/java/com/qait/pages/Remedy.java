@@ -7,10 +7,10 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 
 //import com.gargoylesoftware.htmlunit.javascript.host.dom.Document;
-import com.qait.automation.getpageobjects.GetPage;
+import com.qait.automation.getpageobjects.CommonActions;
 import com.qait.automation.utils.ConfigPropertyReader;
 
-public class Remedy extends GetPage {
+public class Remedy extends CommonActions {
 
 	WebDriver driver;
 	String pagename = "Remedy";
