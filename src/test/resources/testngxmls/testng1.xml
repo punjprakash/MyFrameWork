@@ -1,8 +1,0 @@
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Test" verbose="1" configfailurepolicy="continue">
-    <test name="ASR Cancle ticket" thread-count="10" parallel="instances">
-        <classes>
-        	<class name="com.qait.tests.ASR_TACancle" />
-        </classes>
-    </test>
-</suite>
