@@ -18,7 +18,7 @@ import org.testng.annotations.Test;
 import com.qait.automation.TestSessionInitiator;
 import com.qait.automation.utils.DataProvider;
 import com.qait.automation.utils.YamlReader;
-import com.qait.keywords.YamlInformationProvider;
+import com.qait.pages.YamlInformationProvider;
 
 
 public class MercurySite_Smoke {

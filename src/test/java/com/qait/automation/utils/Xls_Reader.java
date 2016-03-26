@@ -46,6 +46,8 @@ public class Xls_Reader {
 		} else if(env.equalsIgnoreCase("conv01")&appName.equalsIgnoreCase("LSR")) {
 			dataFilePath = "src/test/resources/testdata/Conv01/LSR/TestData.xlsx";
 			
+		} else if(env.equalsIgnoreCase("conv01")&appName.equalsIgnoreCase("Mercury")) {
+			dataFilePath = "src/test/resources/testdata/Conv01/ASR/TestData_Mer.xlsx";
 		} else {
 			Reporter.log(
 					"YOU HAVE PROVIDED WRONG TIER IN CONFIG!!! using dev test data",

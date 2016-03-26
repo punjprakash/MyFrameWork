@@ -14,7 +14,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 import org.testng.Reporter;
 
 import com.qait.automation.utils.TakeScreenshot;
-import com.qait.keywords.*;
+import com.qait.pages.*;
 
 public class TestSessionInitiator {
 

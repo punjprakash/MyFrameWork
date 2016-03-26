@@ -31,21 +31,22 @@ import com.qait.pages.Mercury_HomePage;
 import com.qait.pages.Mercury_SelectFlight;
 
 
-public class MercurySite_SmokeExcel {
+public class OLDMercurySite_SmokeExcel {
 	TestSessionInitiatorExcel test;
 	Hashtable<String,String>  data;
 	Xls_Reader dataXLS; 
 	String excelFilePath;
 	String testCaseName = this.getClass().getSimpleName();
 	String appName= "Mercury";
-	WebDriver driver;
 	public Mercury_HomePage Mercury_HomePage;
 	public Mercury_FlightFinder Mercury_FlightFinder;
 	public Mercury_SelectFlight Mercury_SelectFlight;
 	public Mercury_BookAFlight Mercury_BookAFlight;
 	public Mercury_FlightConfirmation Mercury_FlightConfirmation;
-		
-	MercurySite_SmokeExcel() {
+	
+	
+	
+	OLDMercurySite_SmokeExcel() {
 		Reporter.log("****** TEST CASE ID : MercurySite_Smoke ******\n", true);
 			
 	}
@@ -58,11 +59,11 @@ public class MercurySite_SmokeExcel {
 		test.launchApplication(app_url);
 		Reporter.log("****** Step02_TC01_EnterValidLoginandPassword:  ******\n", true);
 		//String tcId = "TC01";
-		Mercury_HomePage.loginMercurySite(
+		test.Mercury_HomePage.loginMercurySite(
 				data.get("userName"),
 				data.get("password")
 		);
-		Mercury_FlightFinder.enterFlightDetails(
+		test.Mercury_FlightFinder.enterFlightDetails(
 				data.get("Trip"),
 				data.get("Passengers"),
 				data.get("DprtFrom"),
@@ -72,24 +73,24 @@ public class MercurySite_SmokeExcel {
 				data.get("RetrnMonth"),
 				data.get("RetrnOn")
 				);
-		Mercury_FlightFinder.clickContinue();
-		Mercury_SelectFlight.enterDepartureAndReturn(
+		test.Mercury_FlightFinder.clickContinue();
+		test.Mercury_SelectFlight.enterDepartureAndReturn(
 				data.get("DepartFlight"),
 				data.get("RetrnFlight")
 				);
-		Mercury_SelectFlight.clickContinue();
-		Mercury_BookAFlight.enterFlightDetails(
+		test.Mercury_SelectFlight.clickContinue();
+		test.Mercury_BookAFlight.enterFlightDetails(
 				data.get("FirstName"),
 				data.get("LastName"),
 				data.get("CCNumber"),
 				data.get("CCType")
 			);
-		Mercury_BookAFlight.clickContinue();
-		Mercury_FlightConfirmation.verifyText(
+		test.Mercury_BookAFlight.clickContinue();
+		test.Mercury_FlightConfirmation.verifyText(
 				data.get("vText")
 				);
 	
-		Mercury_FlightConfirmation.clickContinue();
+		test.Mercury_FlightConfirmation.clickContinue();
 	}
 	
 	
@@ -100,12 +101,7 @@ public class MercurySite_SmokeExcel {
 		excelFilePath=Xls_Reader.setdataFilePath(appName);
 		Reporter.log("****** TestSessionInitiator  ******\n", true);
 		test = new TestSessionInitiatorExcel(testCaseName,appName,"firefox");
-		driver=test.getDriver();
-		Mercury_HomePage = new Mercury_HomePage(driver);
-		Mercury_FlightFinder = new Mercury_FlightFinder(driver);
-		Mercury_SelectFlight = new Mercury_SelectFlight(driver);
-		Mercury_BookAFlight = new Mercury_BookAFlight(driver);
-		Mercury_FlightConfirmation = new Mercury_FlightConfirmation(driver);
+		
 		dataXLS = new Xls_Reader(excelFilePath);
 		data= Xls_Reader.getDataOneRow(testCaseName, dataXLS);
 		}

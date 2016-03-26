@@ -1,4 +1,4 @@
-package com.qait.keywords;
+package com.qait.pages;
 
 import org.openqa.selenium.WebDriver;
 

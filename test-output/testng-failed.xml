@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" configfailurepolicy="continue" name="Failed suite [Test123]">
+  <test name="Test123(failed)">
+    <classes>
+      <class name="com.qait.tests.MercurySite_SmokeExcel">
+        <methods>
+          <include name="Step06_TC05_flightConfirmation"/>
+          <include name="Step02_TC01_EnterValidLoginandPassword"/>
+          <include name="Step05_TC04_bookAFlight"/>
+          <include name="OpenBrowserWindow"/>
+          <include name="Step04_TC03_selectFlight"/>
+          <include name="Close_Test_Session"/>
+          <include name="Step03_TC02_findFlight"/>
+          <include name="Step01_Launch_Application_Under_Test"/>
+        </methods>
+      </class> <!-- com.qait.tests.MercurySite_SmokeExcel -->
+    </classes>
+  </test> <!-- Test123(failed) -->
+</suite> <!-- Failed suite [Test123] -->

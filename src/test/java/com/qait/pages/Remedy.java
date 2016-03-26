@@ -1,4 +1,4 @@
-package com.qait.keywords;
+package com.qait.pages;
 
 import static com.qait.automation.getpageobjects.ObjectFileReader.getELementFromFile;
 
@@ -6,7 +6,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 
-import com.gargoylesoftware.htmlunit.javascript.host.dom.Document;
+//import com.gargoylesoftware.htmlunit.javascript.host.dom.Document;
 import com.qait.automation.getpageobjects.GetPage;
 import com.qait.automation.utils.ConfigPropertyReader;
 

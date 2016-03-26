@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[****** TEST CASE ID : MercurySite_Smoke ******
+]]>
+    </line>
+    <line>
+      <![CDATA[****** TestSessionInitiator  ******
+]]>
+    </line>
+    <line>
+      <![CDATA[****** TEST CASE ID :  ******
+]]>
+    </line>
+    <line>
+      <![CDATA[
+The application url is :- http://newtours.demoaut.com/]]>
+    </line>
+    <line>
+      <![CDATA[The test browser is :- firefox
+]]>
+    </line>
+    <line>
+      <![CDATA[****** Step02_TC01_EnterValidLoginandPassword:  ******
+]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- inp_userName]]>
+    </line>
+    <line>
+      <![CDATA[ASSERT PASSED: element inp_userName is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- inp_userName]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- inp_password]]>
+    </line>
+    <line>
+      <![CDATA[ASSERT PASSED: element inp_password is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- inp_password]]>
+    </line>
+    <line>
+      <![CDATA[Login mercury and password mercuryhas enterned
+]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- btn_signIn]]>
+    </line>
+    <line>
+      <![CDATA[ASSERT PASSED: element btn_signIn is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- btn_signIn]]>
+    </line>
+    <line>
+      <![CDATA[Step: click btn_signIn
+]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- rb_roundTrip]]>
+    </line>
+    <line>
+      <![CDATA[ASSERT PASSED: element rb_roundTrip is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- rb_roundTrip]]>
+    </line>
+    <line>
+      <![CDATA[Step: roundtrip entered]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- lst_pssngr]]>
+    </line>
+    <line>
+      <![CDATA[ASSERT PASSED: element lst_pssngr is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- lst_pssngr]]>
+    </line>
+    <line>
+      <![CDATA[Step: 1.0 entered]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- lst_dprtFrmCity]]>
+    </line>
+    <line>
+      <![CDATA[ASSERT PASSED: element lst_dprtFrmCity is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- lst_dprtFrmCity]]>
+    </line>
+    <line>
+      <![CDATA[Step: London entered]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- lst_dprtOnMnth]]>
+    </line>
+    <line>
+      <![CDATA[ASSERT PASSED: element lst_dprtOnMnth is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- lst_dprtOnMnth]]>
+    </line>
+    <line>
+      <![CDATA[Step: December entered ]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- lst_dprtOnDt]]>
+    </line>
+    <line>
+      <![CDATA[ASSERT PASSED: element lst_dprtOnDt is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- lst_dprtOnDt]]>
+    </line>
+    <line>
+      <![CDATA[Step: 15.0 entered]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- lst_arrvInCity]]>
+    </line>
+    <line>
+      <![CDATA[ASSERT PASSED: element lst_arrvInCity is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- lst_arrvInCity]]>
+    </line>
+    <line>
+      <![CDATA[Step: New York entered]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- lst_rtnOnMnth]]>
+    </line>
+    <line>
+      <![CDATA[ASSERT PASSED: element lst_rtnOnMnth is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- lst_rtnOnMnth]]>
+    </line>
+    <line>
+      <![CDATA[Step: December entered]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- lst_rtnOnDt]]>
+    </line>
+    <line>
+      <![CDATA[ASSERT PASSED: element lst_rtnOnDt is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- lst_rtnOnDt]]>
+    </line>
+    <line>
+      <![CDATA[Step: 25.0 entered]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- btn_continue]]>
+    </line>
+    <line>
+      <![CDATA[ASSERT PASSED: element btn_continue is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- btn_continue]]>
+    </line>
+    <line>
+      <![CDATA[Step: click btn_continue
+]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- rb_bka361]]>
+    </line>
+    <line>
+      <![CDATA[ASSERT PASSED: element rb_bka361 is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- rb_bka361]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- rb_bka631]]>
+    </line>
+    <line>
+      <![CDATA[ASSERT PASSED: element rb_bka631 is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- rb_bka631]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- btn_continue]]>
+    </line>
+    <line>
+      <![CDATA[ASSERT PASSED: element btn_continue is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- btn_continue]]>
+    </line>
+    <line>
+      <![CDATA[Step: click btn_continue
+]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- inp_FirstName]]>
+    </line>
+    <line>
+      <![CDATA[ASSERT PASSED: element inp_FirstName is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- inp_FirstName]]>
+    </line>
+    <line>
+      <![CDATA[Step: Punj entered]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- inp_lastName]]>
+    </line>
+    <line>
+      <![CDATA[ASSERT PASSED: element inp_lastName is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- inp_lastName]]>
+    </line>
+    <line>
+      <![CDATA[Step: Prakash entered]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- inp_credCardNaumber]]>
+    </line>
+    <line>
+      <![CDATA[ASSERT PASSED: element inp_credCardNaumber is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- inp_credCardNaumber]]>
+    </line>
+    <line>
+      <![CDATA[Step: 4694875258 entered ]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- lst_creditCard]]>
+    </line>
+    <line>
+      <![CDATA[ASSERT PASSED: element lst_creditCard is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- lst_creditCard]]>
+    </line>
+    <line>
+      <![CDATA[Step: Visa entered]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- btn_continue]]>
+    </line>
+    <line>
+      <![CDATA[ASSERT PASSED: element btn_continue is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- btn_continue]]>
+    </line>
+    <line>
+      <![CDATA[Step: click btn_continue
+]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- v_Text]]>
+    </line>
+    <line>
+      <![CDATA[ASSERT PASSED: element v_Text is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Step: Your itinerary has been booked! available]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- lnk_logout]]>
+    </line>
+    <line>
+      <![CDATA[ASSERT PASSED: element lnk_logout is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Element is searched :-- lnk_logout]]>
+    </line>
+    <line>
+      <![CDATA[Step: click lnk_logout
+]]>
+    </line>
+  </reporter-output>
+  <suite name="Test123" duration-ms="11257" started-at="2016-03-26T17:54:01Z" finished-at="2016-03-26T17:54:12Z">
+    <groups>
+    </groups>
+    <test name="Test123" duration-ms="11257" started-at="2016-03-26T17:54:01Z" finished-at="2016-03-26T17:54:12Z">
+      <class name="com.qait.tests.MercurySite_SmokeExcel">
+        <test-method status="PASS" signature="OpenBrowserWindow()[pri:0, instance:com.qait.tests.MercurySite_SmokeExcel@7e0babb1]" name="OpenBrowserWindow" is-config="true" duration-ms="5443" started-at="2016-03-26T12:54:01Z" finished-at="2016-03-26T12:54:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[****** TestSessionInitiator  ******
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- OpenBrowserWindow -->
+        <test-method status="PASS" signature="Step00_verifyUserIsOnHomePage(org.testng.ITestResult)[pri:0, instance:com.qait.tests.MercurySite_SmokeExcel@7e0babb1]" name="Step00_verifyUserIsOnHomePage" is-config="true" duration-ms="1" started-at="2016-03-26T12:54:06Z" finished-at="2016-03-26T12:54:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Step01_Launch_Application_Under_Test status=SUCCESS method=MercurySite_SmokeExcel.Step01_Launch_Application_Under_Test()[pri:0, instance:com.qait.tests.MercurySite_SmokeExcel@7e0babb1] output=****** TEST CASE ID :  ******
+]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step00_verifyUserIsOnHomePage -->
+        <test-method status="PASS" signature="Step01_Launch_Application_Under_Test()[pri:0, instance:com.qait.tests.MercurySite_SmokeExcel@7e0babb1]" name="Step01_Launch_Application_Under_Test" duration-ms="5424" started-at="2016-03-26T12:54:06Z" finished-at="2016-03-26T12:54:11Z">
+          <reporter-output>
+            <line>
+              <![CDATA[****** TEST CASE ID :  ******
+]]>
+            </line>
+            <line>
+              <![CDATA[
+The application url is :- http://newtours.demoaut.com/]]>
+            </line>
+            <line>
+              <![CDATA[The test browser is :- firefox
+]]>
+            </line>
+            <line>
+              <![CDATA[****** Step02_TC01_EnterValidLoginandPassword:  ******
+]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- inp_userName]]>
+            </line>
+            <line>
+              <![CDATA[ASSERT PASSED: element inp_userName is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- inp_userName]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- inp_password]]>
+            </line>
+            <line>
+              <![CDATA[ASSERT PASSED: element inp_password is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- inp_password]]>
+            </line>
+            <line>
+              <![CDATA[Login mercury and password mercuryhas enterned
+]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- btn_signIn]]>
+            </line>
+            <line>
+              <![CDATA[ASSERT PASSED: element btn_signIn is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- btn_signIn]]>
+            </line>
+            <line>
+              <![CDATA[Step: click btn_signIn
+]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- rb_roundTrip]]>
+            </line>
+            <line>
+              <![CDATA[ASSERT PASSED: element rb_roundTrip is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- rb_roundTrip]]>
+            </line>
+            <line>
+              <![CDATA[Step: roundtrip entered]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- lst_pssngr]]>
+            </line>
+            <line>
+              <![CDATA[ASSERT PASSED: element lst_pssngr is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- lst_pssngr]]>
+            </line>
+            <line>
+              <![CDATA[Step: 1.0 entered]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- lst_dprtFrmCity]]>
+            </line>
+            <line>
+              <![CDATA[ASSERT PASSED: element lst_dprtFrmCity is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- lst_dprtFrmCity]]>
+            </line>
+            <line>
+              <![CDATA[Step: London entered]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- lst_dprtOnMnth]]>
+            </line>
+            <line>
+              <![CDATA[ASSERT PASSED: element lst_dprtOnMnth is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- lst_dprtOnMnth]]>
+            </line>
+            <line>
+              <![CDATA[Step: December entered ]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- lst_dprtOnDt]]>
+            </line>
+            <line>
+              <![CDATA[ASSERT PASSED: element lst_dprtOnDt is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- lst_dprtOnDt]]>
+            </line>
+            <line>
+              <![CDATA[Step: 15.0 entered]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- lst_arrvInCity]]>
+            </line>
+            <line>
+              <![CDATA[ASSERT PASSED: element lst_arrvInCity is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- lst_arrvInCity]]>
+            </line>
+            <line>
+              <![CDATA[Step: New York entered]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- lst_rtnOnMnth]]>
+            </line>
+            <line>
+              <![CDATA[ASSERT PASSED: element lst_rtnOnMnth is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- lst_rtnOnMnth]]>
+            </line>
+            <line>
+              <![CDATA[Step: December entered]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- lst_rtnOnDt]]>
+            </line>
+            <line>
+              <![CDATA[ASSERT PASSED: element lst_rtnOnDt is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- lst_rtnOnDt]]>
+            </line>
+            <line>
+              <![CDATA[Step: 25.0 entered]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- btn_continue]]>
+            </line>
+            <line>
+              <![CDATA[ASSERT PASSED: element btn_continue is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- btn_continue]]>
+            </line>
+            <line>
+              <![CDATA[Step: click btn_continue
+]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- rb_bka361]]>
+            </line>
+            <line>
+              <![CDATA[ASSERT PASSED: element rb_bka361 is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- rb_bka361]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- rb_bka631]]>
+            </line>
+            <line>
+              <![CDATA[ASSERT PASSED: element rb_bka631 is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- rb_bka631]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- btn_continue]]>
+            </line>
+            <line>
+              <![CDATA[ASSERT PASSED: element btn_continue is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- btn_continue]]>
+            </line>
+            <line>
+              <![CDATA[Step: click btn_continue
+]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- inp_FirstName]]>
+            </line>
+            <line>
+              <![CDATA[ASSERT PASSED: element inp_FirstName is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- inp_FirstName]]>
+            </line>
+            <line>
+              <![CDATA[Step: Punj entered]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- inp_lastName]]>
+            </line>
+            <line>
+              <![CDATA[ASSERT PASSED: element inp_lastName is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- inp_lastName]]>
+            </line>
+            <line>
+              <![CDATA[Step: Prakash entered]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- inp_credCardNaumber]]>
+            </line>
+            <line>
+              <![CDATA[ASSERT PASSED: element inp_credCardNaumber is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- inp_credCardNaumber]]>
+            </line>
+            <line>
+              <![CDATA[Step: 4694875258 entered ]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- lst_creditCard]]>
+            </line>
+            <line>
+              <![CDATA[ASSERT PASSED: element lst_creditCard is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- lst_creditCard]]>
+            </line>
+            <line>
+              <![CDATA[Step: Visa entered]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- btn_continue]]>
+            </line>
+            <line>
+              <![CDATA[ASSERT PASSED: element btn_continue is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- btn_continue]]>
+            </line>
+            <line>
+              <![CDATA[Step: click btn_continue
+]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- v_Text]]>
+            </line>
+            <line>
+              <![CDATA[ASSERT PASSED: element v_Text is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Step: Your itinerary has been booked! available]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- lnk_logout]]>
+            </line>
+            <line>
+              <![CDATA[ASSERT PASSED: element lnk_logout is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Element is searched :-- lnk_logout]]>
+            </line>
+            <line>
+              <![CDATA[Step: click lnk_logout
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Step01_Launch_Application_Under_Test -->
+        <test-method status="PASS" signature="take_screenshot_on_failure(org.testng.ITestResult)[pri:0, instance:com.qait.tests.MercurySite_SmokeExcel@7e0babb1]" name="take_screenshot_on_failure" is-config="true" duration-ms="0" started-at="2016-03-26T12:54:11Z" finished-at="2016-03-26T12:54:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Step01_Launch_Application_Under_Test status=SUCCESS method=MercurySite_SmokeExcel.Step01_Launch_Application_Under_Test()[pri:0, instance:com.qait.tests.MercurySite_SmokeExcel@7e0babb1] output=****** TEST CASE ID :  ******
+]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- take_screenshot_on_failure -->
+        <test-method status="PASS" signature="Close_Test_Session()[pri:0, instance:com.qait.tests.MercurySite_SmokeExcel@7e0babb1]" name="Close_Test_Session" is-config="true" duration-ms="385" started-at="2016-03-26T12:54:11Z" finished-at="2016-03-26T12:54:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close_Test_Session -->
+      </class> <!-- com.qait.tests.MercurySite_SmokeExcel -->
+    </test> <!-- Test123 -->
+  </suite> <!-- Test123 -->
+</testng-results>

@@ -17,7 +17,7 @@ import org.testng.Reporter;
 import com.qait.automation.utils.TakeScreenshot;
 import com.qait.pages.*;
 
-public class TestSessionInitiatorExcel {
+public class OLDOfTestSessionInitiatorExcel {
 
 	protected WebDriver driver;
 	private final WebDriverFactory wdfactory;
@@ -69,7 +69,7 @@ public class TestSessionInitiatorExcel {
 	 * Page object Initiation done
 	 */
 
-	public TestSessionInitiatorExcel(String testname,String appName,String browserType) {
+	public OLDOfTestSessionInitiatorExcel(String testname,String appName,String browserType) {
 		wdfactory = new WebDriverFactory();
 		try{
 			testInitiator(testname,appName,browserType);

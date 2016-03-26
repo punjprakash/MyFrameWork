@@ -18,9 +18,9 @@ public class MercuryFactoryClassExcel {
 	
 	
     @Factory(dataProvider = "exceldataprovider")
-     public Object[] factoryMethod(Hashtable<String, String> usereInfoMap) {
-        return new Object[]{new MercurySite_SmokeExcel(usereInfoMap)};
-    }
+     //public Object[] factoryMethod(Hashtable<String, String> usereInfoMap) {
+       // return new Object[]{new MercurySite_SmokeExcel(usereInfoMap)};
+   // }
 
   /*  @DataProvider(name = "yamldataprovider", parallel = true)
     public Object[][] dataprovider() {

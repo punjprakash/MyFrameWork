@@ -1,4 +1,4 @@
-package com.qait.keywords;
+package com.qait.pages;
 
 import static com.qait.automation.utils.YamlReader.getMapValue;
 import static com.qait.automation.utils.YamlReader.getYamlValue;
