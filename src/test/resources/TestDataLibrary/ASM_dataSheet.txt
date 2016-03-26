@@ -1,0 +1,59 @@
+TestCaseID	ASM_OMA_Smoke	Field(ASM_OMA_SmokeChecklist)	ASM_CCED_Smoke	Field(ASM_CCED_Smoke)	ASM_Store_Smoke	Field(ASM_Store_Smoke)	ASM_AACT_Smoke	Field(ASM_AACT_Smoke)	ASM_Email_Smoke	Field(ASM_Email_Smoke)	ASM_FellowNominate_Smoke	Field(ASM_FellowNominate_Smoke)
+TC01	<script type='type/javascript'>	lastname	<script type='text/javascript'>	zipcode	<script type='type/javascript'>	search			"<script type=""text/javascript"">"	username	"<script type=""text/javascript"">"	username
+TC02	xcsscig5665gfencemom@aol.com	email	85201-9000	zipcode	http://www.acs.org	search	ACS_OMA@acs.org	email	sandu@#$%&!*()`+?<>/:;={}~	username	ADEMASI@#$%&!*()`+?<>/:;={}~	username
+TC03	email.domain.com	email	10001	zipcode	dsouzaaubh	username	ACS_OMA@^%$&*@acs.org	email	sandu	username	ADEMASI	username
+TC04	Dean	firstname	@#$%&!*()`+?<>/:;={}~	zipcode	password	password	Dean	firstname			44375asdf	member number
+TC05	Sm!th.	firstname			pass@#$%&!*()`+?<>/:;={}~	password	Sm!th.@#$%&!*()`+?<>/:;={}~	firstname			@#$%&!*()`+?<>/:;={}~	member number
+TC06	http://pubs.acs.org	firstname			Dean	firstname	Work/School 	addressType	test@gmail.com	Added miliseconds in New email 	Dean@#$%&!*()`+?<>/:;={}~	member name
+TC07	bioMerieux Inc. 100 Rodolphe St	address			Ron@#$%&!*()`+?<>/:;={}~	firstname	http://www.acs.org	address	@#$%&!*()`+?<>/:;={}~@acs.org	email id	451435 Alan	member name
+TC08	4046332574	phone			Dean	middlename	bioMerieux Inc. 100 Rodolphe St	address				
+TC09	7567*%^)	phone			Ron@#$%&!*()`+?<>/:;={}~	middlename	4046332574	phone				
+TC10	Durham	city			Dean	lastname	4046332574@#$%&!*()`+?<>/:;={}~	phone				
+TC11	@#$%&!*()`+?<>/:;={}~	city			Ron@#$%&!*()`+?<>/:;={}~	lastname	Durham	city				
+TC12	27712-9402	zipCode			ACS	companyname	@#$%&!*()`+?<>/:;={}~	city				
+TC13	27&^%	zipCode			A@#$%&!*()`+?<>/:;={}~CS	companyname	India	country				
+TC14	XYZ Ltd.	employer			Department	department	27712-9402	zipCode				
+TC15	DSR@#$%&!*()`+?<>/:;={}~	employer			Depa@#$%&!*()`+?<>/:;={}~rtment	department	@#$%&!*()`+?<>/:;={}~	zipCode				
+TC16	test data	jobExp			http://www.acs.org	address	ACS	organization				
+TC17	@#$%&!*()`+?<>/:;={}~	jobExp			bioMerieux Inc. 100 Rodolphe St	address	@#$%&!*()`+?<>/:;={}~	organization				
+TC18	http://pubs.acs.org	cardHolderName			http://www.acs.org	address2	Engineering	department				
+TC19	Anne Seton DeMasi	cardHolderName			bioMerieux Inc. 100 Rodolphe St	address2	@#$%&!*()`+?<>/:;={}~	department				
+TC20					Durham	city	http://www.acs.org	address,address2				
+TC21					@#$%&!*()`+?<>/:;={}~	city	@#$%&!*()`+?<>/:;={}~	address,address2				
+TC22					Ohio	state	Durham	city				
+TC23							@#$%&!*()`+?<>/:;={}~	city				
+TC24					27712-9402	zipcode	India	country				
+TC25					27712-9402@#$%&!*()`+?<>/:;={}~	zipcode	27712-9402	zip code				
+TC26					27712-9402	province	@#$%&!*()`+?<>/:;={}~	zip code				
+TC27					27712-9402@#$%&!*()`+?<>/:;={}~	province	Charter School	instructional settings				
+TC28					Dean	firstname	4111111111111111	credit card number				
+TC29					Ron@#$%&!*()`+?<>/:;={}~	firstname	4111112222222220	credit card number				
+TC30					Dean	middlename	123	CCV				
+TC31					Ron@#$%&!*()`+?<>/:;={}~	middlename	12@	CCV				
+TC32					Dean	lastname	http://www.acs.org	Card holder name				
+TC33					Ron@#$%&!*()`+?<>/:;={}~	lastname	Anne Seton DeMasi	Card holder name				
+TC34					ACS	companyname						
+TC35					A@#$%&!*()`+?<>/:;={}~CS	companyname						
+TC36					Department	department						
+TC37					Depa@#$%&!*()`+?<>/:;={}~rtment	department						
+TC38					http://www.acs.org	address						
+TC39					bioMerieux Inc. 100 Rodolphe St	address						
+TC40					http://www.acs.org	address2						
+TC41					bioMerieux Inc. 100 Rodolphe St	address2						
+TC42					Durham	city						
+TC43					@#$%&!*()`+?<>/:;={}~	city						
+TC44					Ohio	state						
+TC45												
+TC46					27712-9402	zipcode						
+TC47					27712-9402@#$%&!*()`+?<>/:;={}~	zipcode						
+TC48					27712-9402	province						
+TC49					27712-9402@#$%&!*()`+?<>/:;={}~	province						
+TC50					4046332574	phone						
+TC51					4046332574@#$%&!*()`+?<>/:;={}~	phone						
+TC52					annesciencemom@aol.com	email						
+TC53					email.domain.com	email						
+TC54					Anne Seton DeMasi	cardholderName						
+TC55					411111111111111	cardholderName						
+TC56					412343543545454	cardholderName						
+TC57					123	creditCardVerificationNumber						
+TC58					@#$%&!*()`+?<>/:;={}~	creditCardVerificationNumber						

@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ASR Checkout" verbose="1" configfailurepolicy="continue">
+    <test name="ASR Cancle Scripts" thread-count="10">
+        <classes>
+        	<class name="com.qait.tests.ASR_TACancle" />
+        </classes>
+    </test>
+    
+</suite>

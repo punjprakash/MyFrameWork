@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ASR TA Checkout Test" verbose="1" configfailurepolicy="continue">
+
+    <test name="ASR Cancle Test" thread-count="10" parallel="instances">
+        <classes>
+        	<class name="com.qait.tests.ASR_TACancle" />
+         </classes>
+    </test>
+    
+    <test name="ASR Close Test" thread-count="10" parallel="instances">
+        <classes>
+        	<class name="com.qait.tests.ASR_TAClose" />
+        </classes>
+    </test>
+     
+</suite>
