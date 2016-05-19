@@ -14,6 +14,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.testng.Reporter;
 
+import com.qait.automation.report.BaseReport;
 import com.qait.automation.utils.TakeScreenshot;
 import com.qait.pages.*;
 
@@ -35,7 +36,7 @@ public class TestSessionInitiatorExcel {
 	/**
 	 * Initiating the page objects
 	 */
-
+	
 	public Mercury_HomePage Mercury_HomePage;
 	public Mercury_FlightFinder Mercury_FlightFinder;
 	public Mercury_SelectFlight Mercury_SelectFlight;
@@ -44,6 +45,7 @@ public class TestSessionInitiatorExcel {
 
 
 	public TakeScreenshot takescreenshot;
+	public BaseReport BaseReport;
 
 	public WebDriver getDriver() {
 		return this.driver;

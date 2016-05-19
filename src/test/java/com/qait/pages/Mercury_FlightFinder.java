@@ -9,6 +9,7 @@ public class Mercury_FlightFinder extends CommonActions {
 
 	WebDriver driver;
 	String pagename = "Mercury_FlightFinder";
+	private Mercury_SelectFlight Mercury_SelectFlight;
 	int timeOut = Integer.parseInt(ConfigPropertyReader.getProperty("timeout"));
 	
 	public Mercury_FlightFinder(WebDriver driver) {
@@ -56,14 +57,24 @@ public class Mercury_FlightFinder extends CommonActions {
 		isElementDisplayed("lst_rtnOnDt");
 		element("lst_rtnOnDt").sendKeys(returiningOnDay);
 		logMessage("Step: " +returiningOnDay+ " entered");
-	
+		
 	}
 	
+	/*
 	public void clickContinue() {
 		isElementDisplayed("btn_continue");
 		element("btn_continue").click();
 		logMessage("Step: click btn_continue\n");
 	}
-
+*/
+	public Mercury_SelectFlight clickContinue() {
+		isElementDisplayed("btn_continue");
+		element("btn_continue").click();
+		logMessage("Step: click btn_continue\n");
+		return new Mercury_SelectFlight(driver);
+		
+	}
+	
+	
 
 }

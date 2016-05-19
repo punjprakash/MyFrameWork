@@ -1,0 +1,1067 @@
+2016-04-24 22:25:20,783 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:25:20,783 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:25:20,783 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Mercury Test       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-04-24 22:25:20,783 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:25:20,783 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:25:20,830 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:25:20,830 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:25:20,830 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Mercury Test       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-04-24 22:25:20,830 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:25:20,830 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:25:29,446 INFO  [Log] This is my info 
+2016-04-24 22:25:29,553 INFO  [Log] ASSERT PASSED: element inp_userName is displayed. 
+2016-04-24 22:25:29,665 INFO  [Log] ASSERT PASSED: element inp_password is displayed. 
+2016-04-24 22:25:30,331 INFO  [Log] Login mercury and password mercuryhas enterned
+ 
+2016-04-24 22:25:30,380 INFO  [Log] ASSERT PASSED: element btn_signIn is displayed. 
+2016-04-24 22:25:31,632 INFO  [Log] Step: click btn_signIn
+ 
+2016-04-24 22:25:31,752 INFO  [Log] ASSERT PASSED: element rb_roundTrip is displayed. 
+2016-04-24 22:25:31,877 INFO  [Log] Step: roundtrip entered 
+2016-04-24 22:25:31,914 INFO  [Log] ASSERT PASSED: element lst_pssngr is displayed. 
+2016-04-24 22:25:31,960 INFO  [Log] Step: 1.0 entered 
+2016-04-24 22:25:31,996 INFO  [Log] ASSERT PASSED: element lst_dprtFrmCity is displayed. 
+2016-04-24 22:25:32,052 INFO  [Log] Step: London entered 
+2016-04-24 22:25:32,089 INFO  [Log] ASSERT PASSED: element lst_dprtOnMnth is displayed. 
+2016-04-24 22:25:32,147 INFO  [Log] Step: December entered  
+2016-04-24 22:25:32,183 INFO  [Log] ASSERT PASSED: element lst_dprtOnDt is displayed. 
+2016-04-24 22:25:32,230 INFO  [Log] Step: 15.0 entered 
+2016-04-24 22:25:32,273 INFO  [Log] ASSERT PASSED: element lst_arrvInCity is displayed. 
+2016-04-24 22:25:32,343 INFO  [Log] Step: New York entered 
+2016-04-24 22:25:32,385 INFO  [Log] ASSERT PASSED: element lst_rtnOnMnth is displayed. 
+2016-04-24 22:25:32,435 INFO  [Log] Step: December entered 
+2016-04-24 22:25:32,505 INFO  [Log] ASSERT PASSED: element lst_rtnOnDt is displayed. 
+2016-04-24 22:25:32,576 INFO  [Log] Step: 25.0 entered 
+2016-04-24 22:25:38,977 INFO  [Log] This is my info 
+2016-04-24 22:25:39,068 INFO  [Log] ASSERT PASSED: element inp_userName is displayed. 
+2016-04-24 22:25:40,162 INFO  [Log] ASSERT PASSED: element inp_password is displayed. 
+2016-04-24 22:25:40,224 INFO  [Log] Login mercury and password mercuryhas enterned
+ 
+2016-04-24 22:25:40,261 INFO  [Log] ASSERT PASSED: element btn_signIn is displayed. 
+2016-04-24 22:25:41,406 INFO  [Log] Step: click btn_signIn
+ 
+2016-04-24 22:25:41,512 INFO  [Log] ASSERT PASSED: element rb_roundTrip is displayed. 
+2016-04-24 22:25:41,593 INFO  [Log] Step: roundtrip entered 
+2016-04-24 22:25:41,627 INFO  [Log] ASSERT PASSED: element lst_pssngr is displayed. 
+2016-04-24 22:25:41,670 INFO  [Log] Step: 1.0 entered 
+2016-04-24 22:25:41,703 INFO  [Log] ASSERT PASSED: element lst_dprtFrmCity is displayed. 
+2016-04-24 22:25:41,756 INFO  [Log] Step: London entered 
+2016-04-24 22:25:41,790 INFO  [Log] ASSERT PASSED: element lst_dprtOnMnth is displayed. 
+2016-04-24 22:25:41,847 INFO  [Log] Step: December entered  
+2016-04-24 22:25:41,880 INFO  [Log] ASSERT PASSED: element lst_dprtOnDt is displayed. 
+2016-04-24 22:25:41,932 INFO  [Log] Step: 15.0 entered 
+2016-04-24 22:25:41,965 INFO  [Log] ASSERT PASSED: element lst_arrvInCity is displayed. 
+2016-04-24 22:25:42,018 INFO  [Log] Step: New York entered 
+2016-04-24 22:25:42,053 INFO  [Log] ASSERT PASSED: element lst_rtnOnMnth is displayed. 
+2016-04-24 22:25:42,102 INFO  [Log] Step: December entered 
+2016-04-24 22:25:42,143 INFO  [Log] ASSERT PASSED: element lst_rtnOnDt is displayed. 
+2016-04-24 22:25:42,183 INFO  [Log] Step: 25.0 entered 
+2016-04-24 22:25:42,227 INFO  [Log] ASSERT PASSED: element btn_continue is displayed. 
+2016-04-24 22:25:42,720 INFO  [Log] Step: click btn_continue
+ 
+2016-04-24 22:25:42,817 INFO  [Log] ASSERT PASSED: element rb_bka361 is displayed. 
+2016-04-24 22:25:42,948 INFO  [Log] ASSERT PASSED: element rb_bka631 is displayed. 
+2016-04-24 22:25:43,059 INFO  [Log] ASSERT PASSED: element btn_continue is displayed. 
+2016-04-24 22:25:43,871 INFO  [Log] Step: click btn_continue
+ 
+2016-04-24 22:25:43,924 INFO  [Log] ASSERT PASSED: element inp_FirstName is displayed. 
+2016-04-24 22:25:43,975 INFO  [Log] Step: Punj entered 
+2016-04-24 22:25:44,013 INFO  [Log] ASSERT PASSED: element inp_lastName is displayed. 
+2016-04-24 22:25:44,071 INFO  [Log] Step: Prakash entered 
+2016-04-24 22:25:44,107 INFO  [Log] ASSERT PASSED: element inp_credCardNaumber is displayed. 
+2016-04-24 22:25:44,167 INFO  [Log] Step: 4694875258 entered  
+2016-04-24 22:25:44,205 INFO  [Log] ASSERT PASSED: element lst_creditCard is displayed. 
+2016-04-24 22:25:44,268 INFO  [Log] Step: Visa entered 
+2016-04-24 22:25:44,329 INFO  [Log] ASSERT PASSED: element btn_continue is displayed. 
+2016-04-24 22:25:45,019 INFO  [Log] Step: click btn_continue
+ 
+2016-04-24 22:25:45,069 INFO  [Log] ASSERT PASSED: element v_Text is displayed. 
+2016-04-24 22:25:45,069 INFO  [Log] Step: Your itinerary has been booked! available 
+2016-04-24 22:25:45,113 INFO  [Log] ASSERT PASSED: element lnk_logout is displayed. 
+2016-04-24 22:25:45,845 INFO  [Log] Step: click lnk_logout
+ 
+2016-04-24 22:26:32,885 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:26:32,885 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:26:32,885 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Mercury Test       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-04-24 22:26:32,885 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:26:32,885 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:26:32,916 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:26:32,916 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:26:32,916 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Mercury Test       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-04-24 22:26:32,916 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:26:32,916 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:26:39,360 INFO  [Log] This is my info 
+2016-04-24 22:26:39,471 INFO  [Log] ASSERT PASSED: element inp_userName is displayed. 
+2016-04-24 22:26:39,581 INFO  [Log] ASSERT PASSED: element inp_password is displayed. 
+2016-04-24 22:26:40,355 INFO  [Log] Login mercury and password mercuryhas enterned
+ 
+2016-04-24 22:26:40,396 INFO  [Log] ASSERT PASSED: element btn_signIn is displayed. 
+2016-04-24 22:26:41,591 INFO  [Log] Step: click btn_signIn
+ 
+2016-04-24 22:26:41,666 INFO  [Log] ASSERT PASSED: element rb_roundTrip is displayed. 
+2016-04-24 22:26:41,749 INFO  [Log] Step: roundtrip entered 
+2016-04-24 22:26:41,786 INFO  [Log] ASSERT PASSED: element lst_pssngr is displayed. 
+2016-04-24 22:26:41,833 INFO  [Log] Step: 1.0 entered 
+2016-04-24 22:26:41,867 INFO  [Log] ASSERT PASSED: element lst_dprtFrmCity is displayed. 
+2016-04-24 22:26:41,922 INFO  [Log] Step: London entered 
+2016-04-24 22:26:41,960 INFO  [Log] ASSERT PASSED: element lst_dprtOnMnth is displayed. 
+2016-04-24 22:26:42,018 INFO  [Log] Step: December entered  
+2016-04-24 22:26:42,055 INFO  [Log] ASSERT PASSED: element lst_dprtOnDt is displayed. 
+2016-04-24 22:26:42,100 INFO  [Log] Step: 15.0 entered 
+2016-04-24 22:26:42,146 INFO  [Log] ASSERT PASSED: element lst_arrvInCity is displayed. 
+2016-04-24 22:26:42,206 INFO  [Log] Step: New York entered 
+2016-04-24 22:26:42,243 INFO  [Log] ASSERT PASSED: element lst_rtnOnMnth is displayed. 
+2016-04-24 22:26:42,299 INFO  [Log] Step: December entered 
+2016-04-24 22:26:42,335 INFO  [Log] ASSERT PASSED: element lst_rtnOnDt is displayed. 
+2016-04-24 22:26:42,385 INFO  [Log] Step: 25.0 entered 
+2016-04-24 22:26:48,653 INFO  [Log] This is my info 
+2016-04-24 22:26:48,743 INFO  [Log] ASSERT PASSED: element inp_userName is displayed. 
+2016-04-24 22:26:49,355 INFO  [Log] ASSERT PASSED: element inp_password is displayed. 
+2016-04-24 22:26:49,459 INFO  [Log] Login mercury and password mercuryhas enterned
+ 
+2016-04-24 22:26:49,498 INFO  [Log] ASSERT PASSED: element btn_signIn is displayed. 
+2016-04-24 22:26:50,661 INFO  [Log] Step: click btn_signIn
+ 
+2016-04-24 22:26:50,740 INFO  [Log] ASSERT PASSED: element rb_roundTrip is displayed. 
+2016-04-24 22:26:50,821 INFO  [Log] Step: roundtrip entered 
+2016-04-24 22:26:50,857 INFO  [Log] ASSERT PASSED: element lst_pssngr is displayed. 
+2016-04-24 22:26:50,900 INFO  [Log] Step: 1.0 entered 
+2016-04-24 22:26:50,933 INFO  [Log] ASSERT PASSED: element lst_dprtFrmCity is displayed. 
+2016-04-24 22:26:50,986 INFO  [Log] Step: London entered 
+2016-04-24 22:26:51,022 INFO  [Log] ASSERT PASSED: element lst_dprtOnMnth is displayed. 
+2016-04-24 22:26:51,078 INFO  [Log] Step: December entered  
+2016-04-24 22:26:51,113 INFO  [Log] ASSERT PASSED: element lst_dprtOnDt is displayed. 
+2016-04-24 22:26:51,158 INFO  [Log] Step: 15.0 entered 
+2016-04-24 22:26:51,200 INFO  [Log] ASSERT PASSED: element lst_arrvInCity is displayed. 
+2016-04-24 22:26:51,256 INFO  [Log] Step: New York entered 
+2016-04-24 22:26:51,293 INFO  [Log] ASSERT PASSED: element lst_rtnOnMnth is displayed. 
+2016-04-24 22:26:51,340 INFO  [Log] Step: December entered 
+2016-04-24 22:26:51,394 INFO  [Log] ASSERT PASSED: element lst_rtnOnDt is displayed. 
+2016-04-24 22:26:51,435 INFO  [Log] Step: 25.0 entered 
+2016-04-24 22:26:51,482 INFO  [Log] ASSERT PASSED: element btn_continue is displayed. 
+2016-04-24 22:26:52,055 INFO  [Log] Step: click btn_continue
+ 
+2016-04-24 22:26:52,127 INFO  [Log] ASSERT PASSED: element rb_bka361 is displayed. 
+2016-04-24 22:26:52,246 INFO  [Log] ASSERT PASSED: element rb_bka631 is displayed. 
+2016-04-24 22:26:52,362 INFO  [Log] ASSERT PASSED: element btn_continue is displayed. 
+2016-04-24 22:26:53,104 INFO  [Log] Step: click btn_continue
+ 
+2016-04-24 22:26:53,162 INFO  [Log] ASSERT PASSED: element inp_FirstName is displayed. 
+2016-04-24 22:26:53,216 INFO  [Log] Step: Punj entered 
+2016-04-24 22:26:53,254 INFO  [Log] ASSERT PASSED: element inp_lastName is displayed. 
+2016-04-24 22:26:53,314 INFO  [Log] Step: Prakash entered 
+2016-04-24 22:26:53,352 INFO  [Log] ASSERT PASSED: element inp_credCardNaumber is displayed. 
+2016-04-24 22:26:53,412 INFO  [Log] Step: 4694875258 entered  
+2016-04-24 22:26:53,453 INFO  [Log] ASSERT PASSED: element lst_creditCard is displayed. 
+2016-04-24 22:26:53,505 INFO  [Log] Step: Visa entered 
+2016-04-24 22:26:53,554 INFO  [Log] ASSERT PASSED: element btn_continue is displayed. 
+2016-04-24 22:26:54,321 INFO  [Log] Step: click btn_continue
+ 
+2016-04-24 22:26:54,388 INFO  [Log] ASSERT PASSED: element v_Text is displayed. 
+2016-04-24 22:26:54,388 INFO  [Log] Step: Your itinerary has been booked! available 
+2016-04-24 22:26:54,429 INFO  [Log] ASSERT PASSED: element lnk_logout is displayed. 
+2016-04-24 22:26:55,201 INFO  [Log] Step: click lnk_logout
+ 
+2016-04-24 22:37:31,951 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:37:31,951 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:37:31,951 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Mercury Test       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-04-24 22:37:31,951 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:37:31,951 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:37:31,998 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:37:31,998 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:37:31,998 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Mercury Test       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-04-24 22:37:31,998 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:37:31,998 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:37:38,422 INFO  [Log] This is my info 
+2016-04-24 22:37:38,537 INFO  [Log] ASSERT PASSED: element inp_userName is displayed. 
+2016-04-24 22:37:38,661 INFO  [Log] ASSERT PASSED: element inp_password is displayed. 
+2016-04-24 22:37:38,722 INFO  [Log] Login mercury and password mercuryhas enterned
+ 
+2016-04-24 22:37:38,769 INFO  [Log] ASSERT PASSED: element btn_signIn is displayed. 
+2016-04-24 22:37:40,642 INFO  [Log] Step: click btn_signIn
+ 
+2016-04-24 22:42:42,346 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:42:42,346 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:42:42,346 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Mercury Test       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-04-24 22:42:42,346 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:42:42,346 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:42:42,394 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:42:42,394 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:42:42,394 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Mercury Test       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-04-24 22:42:42,394 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:42:42,394 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:43:25,460 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:43:25,460 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:43:25,460 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Mercury Test       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-04-24 22:43:25,460 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:43:25,460 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:43:25,491 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:43:25,491 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:43:25,491 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Mercury Test       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-04-24 22:43:25,491 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:43:25,491 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:43:32,785 INFO  [Log] This is my info 
+2016-04-24 22:43:32,912 INFO  [Log] ASSERT PASSED: element inp_userName is displayed. 
+2016-04-24 22:43:33,017 INFO  [Log] ASSERT PASSED: element inp_password is displayed. 
+2016-04-24 22:43:33,941 INFO  [Log] Login mercury and password mercuryhas enterned
+ 
+2016-04-24 22:43:33,985 INFO  [Log] ASSERT PASSED: element btn_signIn is displayed. 
+2016-04-24 22:43:35,185 INFO  [Log] Step: click btn_signIn
+ 
+2016-04-24 22:43:35,273 INFO  [Log] ASSERT PASSED: element rb_roundTrip is displayed. 
+2016-04-24 22:43:35,356 INFO  [Log] Step: roundtrip entered 
+2016-04-24 22:43:35,390 INFO  [Log] ASSERT PASSED: element lst_pssngr is displayed. 
+2016-04-24 22:43:35,431 INFO  [Log] Step: 1.0 entered 
+2016-04-24 22:43:35,464 INFO  [Log] ASSERT PASSED: element lst_dprtFrmCity is displayed. 
+2016-04-24 22:43:35,517 INFO  [Log] Step: London entered 
+2016-04-24 22:43:35,552 INFO  [Log] ASSERT PASSED: element lst_dprtOnMnth is displayed. 
+2016-04-24 22:43:35,602 INFO  [Log] Step: December entered  
+2016-04-24 22:43:35,647 INFO  [Log] ASSERT PASSED: element lst_dprtOnDt is displayed. 
+2016-04-24 22:43:35,700 INFO  [Log] Step: 15.0 entered 
+2016-04-24 22:43:35,736 INFO  [Log] ASSERT PASSED: element lst_arrvInCity is displayed. 
+2016-04-24 22:43:35,785 INFO  [Log] Step: New York entered 
+2016-04-24 22:43:35,830 INFO  [Log] ASSERT PASSED: element lst_rtnOnMnth is displayed. 
+2016-04-24 22:43:35,885 INFO  [Log] Step: December entered 
+2016-04-24 22:43:35,921 INFO  [Log] ASSERT PASSED: element lst_rtnOnDt is displayed. 
+2016-04-24 22:43:35,964 INFO  [Log] Step: 25.0 entered 
+2016-04-24 22:43:41,902 INFO  [Log] This is my info 
+2016-04-24 22:43:42,005 INFO  [Log] ASSERT PASSED: element inp_userName is displayed. 
+2016-04-24 22:43:42,109 INFO  [Log] ASSERT PASSED: element inp_password is displayed. 
+2016-04-24 22:43:42,661 INFO  [Log] Login mercury and password mercuryhas enterned
+ 
+2016-04-24 22:43:42,699 INFO  [Log] ASSERT PASSED: element btn_signIn is displayed. 
+2016-04-24 22:43:43,888 INFO  [Log] Step: click btn_signIn
+ 
+2016-04-24 22:43:43,952 INFO  [Log] ASSERT PASSED: element rb_roundTrip is displayed. 
+2016-04-24 22:43:44,035 INFO  [Log] Step: roundtrip entered 
+2016-04-24 22:43:44,071 INFO  [Log] ASSERT PASSED: element lst_pssngr is displayed. 
+2016-04-24 22:43:44,115 INFO  [Log] Step: 1.0 entered 
+2016-04-24 22:43:44,149 INFO  [Log] ASSERT PASSED: element lst_dprtFrmCity is displayed. 
+2016-04-24 22:43:44,213 INFO  [Log] Step: London entered 
+2016-04-24 22:43:44,256 INFO  [Log] ASSERT PASSED: element lst_dprtOnMnth is displayed. 
+2016-04-24 22:43:44,305 INFO  [Log] Step: December entered  
+2016-04-24 22:43:44,346 INFO  [Log] ASSERT PASSED: element lst_dprtOnDt is displayed. 
+2016-04-24 22:43:44,400 INFO  [Log] Step: 15.0 entered 
+2016-04-24 22:43:44,436 INFO  [Log] ASSERT PASSED: element lst_arrvInCity is displayed. 
+2016-04-24 22:43:44,489 INFO  [Log] Step: New York entered 
+2016-04-24 22:43:44,523 INFO  [Log] ASSERT PASSED: element lst_rtnOnMnth is displayed. 
+2016-04-24 22:43:44,589 INFO  [Log] Step: December entered 
+2016-04-24 22:43:44,623 INFO  [Log] ASSERT PASSED: element lst_rtnOnDt is displayed. 
+2016-04-24 22:43:44,670 INFO  [Log] Step: 25.0 entered 
+2016-04-24 22:43:44,707 INFO  [Log] ASSERT PASSED: element btn_continue is displayed. 
+2016-04-24 22:43:45,221 INFO  [Log] Step: click btn_continue
+ 
+2016-04-24 22:43:45,307 INFO  [Log] ASSERT PASSED: element rb_bka361 is displayed. 
+2016-04-24 22:43:45,428 INFO  [Log] ASSERT PASSED: element rb_bka631 is displayed. 
+2016-04-24 22:43:45,544 INFO  [Log] ASSERT PASSED: element btn_continue is displayed. 
+2016-04-24 22:43:46,543 INFO  [Log] Step: click btn_continue
+ 
+2016-04-24 22:43:46,605 INFO  [Log] ASSERT PASSED: element inp_FirstName is displayed. 
+2016-04-24 22:43:46,653 INFO  [Log] Step: Punj entered 
+2016-04-24 22:43:46,693 INFO  [Log] ASSERT PASSED: element inp_lastName is displayed. 
+2016-04-24 22:43:46,750 INFO  [Log] Step: Prakash entered 
+2016-04-24 22:43:46,786 INFO  [Log] ASSERT PASSED: element inp_credCardNaumber is displayed. 
+2016-04-24 22:43:46,859 INFO  [Log] Step: 4694875258 entered  
+2016-04-24 22:43:46,898 INFO  [Log] ASSERT PASSED: element lst_creditCard is displayed. 
+2016-04-24 22:43:46,958 INFO  [Log] Step: Visa entered 
+2016-04-24 22:43:46,998 INFO  [Log] ASSERT PASSED: element btn_continue is displayed. 
+2016-04-24 22:43:47,663 INFO  [Log] Step: click btn_continue
+ 
+2016-04-24 22:43:47,704 INFO  [Log] ASSERT PASSED: element v_Text is displayed. 
+2016-04-24 22:43:47,704 INFO  [Log] Step: Your itinerary has been booked! available 
+2016-04-24 22:43:47,747 INFO  [Log] ASSERT PASSED: element lnk_logout is displayed. 
+2016-04-24 22:43:48,486 INFO  [Log] Step: click lnk_logout
+ 
+2016-04-24 22:44:50,926 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:44:50,926 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:44:50,926 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Mercury Test       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-04-24 22:44:50,926 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:44:50,926 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:44:50,980 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:44:50,980 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:44:50,980 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Mercury Test       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-04-24 22:44:50,980 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:44:50,980 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:44:57,711 INFO  [Log] This is my info 
+2016-04-24 22:44:57,847 INFO  [Log] ASSERT PASSED: element inp_userName is displayed. 
+2016-04-24 22:44:57,957 INFO  [Log] ASSERT PASSED: element inp_password is displayed. 
+2016-04-24 22:44:58,493 INFO  [Log] Login mercury and password mercuryhas enterned
+ 
+2016-04-24 22:44:58,532 INFO  [Log] ASSERT PASSED: element btn_signIn is displayed. 
+2016-04-24 22:44:59,713 INFO  [Log] Step: click btn_signIn
+ 
+2016-04-24 22:44:59,820 INFO  [Log] ASSERT PASSED: element rb_roundTrip is displayed. 
+2016-04-24 22:44:59,906 INFO  [Log] Step: roundtrip entered 
+2016-04-24 22:44:59,940 INFO  [Log] ASSERT PASSED: element lst_pssngr is displayed. 
+2016-04-24 22:44:59,982 INFO  [Log] Step: 1.0 entered 
+2016-04-24 22:45:00,016 INFO  [Log] ASSERT PASSED: element lst_dprtFrmCity is displayed. 
+2016-04-24 22:45:00,061 INFO  [Log] Step: London entered 
+2016-04-24 22:45:00,102 INFO  [Log] ASSERT PASSED: element lst_dprtOnMnth is displayed. 
+2016-04-24 22:45:00,157 INFO  [Log] Step: December entered  
+2016-04-24 22:45:00,191 INFO  [Log] ASSERT PASSED: element lst_dprtOnDt is displayed. 
+2016-04-24 22:45:00,245 INFO  [Log] Step: 15.0 entered 
+2016-04-24 22:45:00,280 INFO  [Log] ASSERT PASSED: element lst_arrvInCity is displayed. 
+2016-04-24 22:45:00,329 INFO  [Log] Step: New York entered 
+2016-04-24 22:45:00,370 INFO  [Log] ASSERT PASSED: element lst_rtnOnMnth is displayed. 
+2016-04-24 22:45:00,426 INFO  [Log] Step: December entered 
+2016-04-24 22:45:00,460 INFO  [Log] ASSERT PASSED: element lst_rtnOnDt is displayed. 
+2016-04-24 22:45:00,510 INFO  [Log] Step: 25.0 entered 
+2016-04-24 22:45:06,536 INFO  [Log] This is my info 
+2016-04-24 22:45:06,641 INFO  [Log] ASSERT PASSED: element inp_userName is displayed. 
+2016-04-24 22:45:06,741 INFO  [Log] ASSERT PASSED: element inp_password is displayed. 
+2016-04-24 22:45:07,320 INFO  [Log] Login mercury and password mercuryhas enterned
+ 
+2016-04-24 22:45:07,360 INFO  [Log] ASSERT PASSED: element btn_signIn is displayed. 
+2016-04-24 22:45:08,546 INFO  [Log] Step: click btn_signIn
+ 
+2016-04-24 22:45:08,661 INFO  [Log] ASSERT PASSED: element rb_roundTrip is displayed. 
+2016-04-24 22:45:08,771 INFO  [Log] Step: roundtrip entered 
+2016-04-24 22:45:08,818 INFO  [Log] ASSERT PASSED: element lst_pssngr is displayed. 
+2016-04-24 22:45:08,863 INFO  [Log] Step: 1.0 entered 
+2016-04-24 22:45:08,900 INFO  [Log] ASSERT PASSED: element lst_dprtFrmCity is displayed. 
+2016-04-24 22:45:08,947 INFO  [Log] Step: London entered 
+2016-04-24 22:45:08,991 INFO  [Log] ASSERT PASSED: element lst_dprtOnMnth is displayed. 
+2016-04-24 22:45:09,049 INFO  [Log] Step: December entered  
+2016-04-24 22:45:09,087 INFO  [Log] ASSERT PASSED: element lst_dprtOnDt is displayed. 
+2016-04-24 22:45:09,133 INFO  [Log] Step: 15.0 entered 
+2016-04-24 22:45:09,176 INFO  [Log] ASSERT PASSED: element lst_arrvInCity is displayed. 
+2016-04-24 22:45:09,230 INFO  [Log] Step: New York entered 
+2016-04-24 22:45:09,278 INFO  [Log] ASSERT PASSED: element lst_rtnOnMnth is displayed. 
+2016-04-24 22:45:09,335 INFO  [Log] Step: December entered 
+2016-04-24 22:45:09,370 INFO  [Log] ASSERT PASSED: element lst_rtnOnDt is displayed. 
+2016-04-24 22:45:09,412 INFO  [Log] Step: 25.0 entered 
+2016-04-24 22:45:09,457 INFO  [Log] ASSERT PASSED: element btn_continue is displayed. 
+2016-04-24 22:45:10,131 INFO  [Log] Step: click btn_continue
+ 
+2016-04-24 22:45:10,170 INFO  [Log] ASSERT PASSED: element rb_bka361 is displayed. 
+2016-04-24 22:45:10,281 INFO  [Log] ASSERT PASSED: element rb_bka631 is displayed. 
+2016-04-24 22:45:10,396 INFO  [Log] ASSERT PASSED: element btn_continue is displayed. 
+2016-04-24 22:45:11,786 INFO  [Log] Step: click btn_continue
+ 
+2016-04-24 22:45:11,831 INFO  [Log] ASSERT PASSED: element inp_FirstName is displayed. 
+2016-04-24 22:45:11,879 INFO  [Log] Step: Punj entered 
+2016-04-24 22:45:11,921 INFO  [Log] ASSERT PASSED: element inp_lastName is displayed. 
+2016-04-24 22:45:11,980 INFO  [Log] Step: Prakash entered 
+2016-04-24 22:45:12,018 INFO  [Log] ASSERT PASSED: element inp_credCardNaumber is displayed. 
+2016-04-24 22:45:12,078 INFO  [Log] Step: 4694875258 entered  
+2016-04-24 22:45:12,119 INFO  [Log] ASSERT PASSED: element lst_creditCard is displayed. 
+2016-04-24 22:45:12,181 INFO  [Log] Step: Visa entered 
+2016-04-24 22:45:12,223 INFO  [Log] ASSERT PASSED: element btn_continue is displayed. 
+2016-04-24 22:45:12,859 INFO  [Log] Step: click btn_continue
+ 
+2016-04-24 22:45:12,907 INFO  [Log] ASSERT PASSED: element v_Text is displayed. 
+2016-04-24 22:45:12,907 INFO  [Log] Step: Your itinerary has been booked! available 
+2016-04-24 22:45:12,953 INFO  [Log] ASSERT PASSED: element lnk_logout is displayed. 
+2016-04-24 22:45:13,650 INFO  [Log] Step: click lnk_logout
+ 
+2016-04-24 22:54:12,268 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:54:12,268 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:54:12,268 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Mercury Test       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-04-24 22:54:12,268 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:54:12,268 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:54:12,305 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:54:12,305 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:54:12,305 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Mercury Test       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-04-24 22:54:12,305 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:54:12,305 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:54:19,116 INFO  [Log] This is my info 
+2016-04-24 22:54:19,238 INFO  [Log] ASSERT PASSED: element inp_userName is displayed. 
+2016-04-24 22:54:20,181 INFO  [Log] ASSERT PASSED: element inp_password is displayed. 
+2016-04-24 22:54:20,240 INFO  [Log] Login mercury and password mercuryhas enterned
+ 
+2016-04-24 22:54:20,284 INFO  [Log] ASSERT PASSED: element btn_signIn is displayed. 
+2016-04-24 22:54:21,505 INFO  [Log] Step: click btn_signIn
+ 
+2016-04-24 22:54:21,644 INFO  [Log] ASSERT PASSED: element rb_roundTrip is displayed. 
+2016-04-24 22:54:21,730 INFO  [Log] Step: roundtrip entered 
+2016-04-24 22:54:21,768 INFO  [Log] ASSERT PASSED: element lst_pssngr is displayed. 
+2016-04-24 22:54:21,813 INFO  [Log] Step: 1.0 entered 
+2016-04-24 22:54:21,850 INFO  [Log] ASSERT PASSED: element lst_dprtFrmCity is displayed. 
+2016-04-24 22:54:21,907 INFO  [Log] Step: London entered 
+2016-04-24 22:54:21,944 INFO  [Log] ASSERT PASSED: element lst_dprtOnMnth is displayed. 
+2016-04-24 22:54:22,001 INFO  [Log] Step: December entered  
+2016-04-24 22:54:22,040 INFO  [Log] ASSERT PASSED: element lst_dprtOnDt is displayed. 
+2016-04-24 22:54:22,087 INFO  [Log] Step: 15.0 entered 
+2016-04-24 22:54:22,131 INFO  [Log] ASSERT PASSED: element lst_arrvInCity is displayed. 
+2016-04-24 22:54:22,188 INFO  [Log] Step: New York entered 
+2016-04-24 22:54:22,225 INFO  [Log] ASSERT PASSED: element lst_rtnOnMnth is displayed. 
+2016-04-24 22:54:22,281 INFO  [Log] Step: December entered 
+2016-04-24 22:54:22,317 INFO  [Log] ASSERT PASSED: element lst_rtnOnDt is displayed. 
+2016-04-24 22:54:22,361 INFO  [Log] Step: 25.0 entered 
+2016-04-24 22:54:28,450 INFO  [Log] This is my info 
+2016-04-24 22:54:28,551 INFO  [Log] ASSERT PASSED: element inp_userName is displayed. 
+2016-04-24 22:54:28,656 INFO  [Log] ASSERT PASSED: element inp_password is displayed. 
+2016-04-24 22:54:29,287 INFO  [Log] Login mercury and password mercuryhas enterned
+ 
+2016-04-24 22:54:29,325 INFO  [Log] ASSERT PASSED: element btn_signIn is displayed. 
+2016-04-24 22:54:30,522 INFO  [Log] Step: click btn_signIn
+ 
+2016-04-24 22:54:30,610 INFO  [Log] ASSERT PASSED: element rb_roundTrip is displayed. 
+2016-04-24 22:54:30,692 INFO  [Log] Step: roundtrip entered 
+2016-04-24 22:54:30,727 INFO  [Log] ASSERT PASSED: element lst_pssngr is displayed. 
+2016-04-24 22:54:30,768 INFO  [Log] Step: 1.0 entered 
+2016-04-24 22:54:30,804 INFO  [Log] ASSERT PASSED: element lst_dprtFrmCity is displayed. 
+2016-04-24 22:54:30,852 INFO  [Log] Step: London entered 
+2016-04-24 22:54:30,894 INFO  [Log] ASSERT PASSED: element lst_dprtOnMnth is displayed. 
+2016-04-24 22:54:30,940 INFO  [Log] Step: December entered  
+2016-04-24 22:54:30,980 INFO  [Log] ASSERT PASSED: element lst_dprtOnDt is displayed. 
+2016-04-24 22:54:31,032 INFO  [Log] Step: 15.0 entered 
+2016-04-24 22:54:31,073 INFO  [Log] ASSERT PASSED: element lst_arrvInCity is displayed. 
+2016-04-24 22:54:31,136 INFO  [Log] Step: New York entered 
+2016-04-24 22:54:31,173 INFO  [Log] ASSERT PASSED: element lst_rtnOnMnth is displayed. 
+2016-04-24 22:54:31,233 INFO  [Log] Step: December entered 
+2016-04-24 22:54:31,268 INFO  [Log] ASSERT PASSED: element lst_rtnOnDt is displayed. 
+2016-04-24 22:54:31,319 INFO  [Log] Step: 25.0 entered 
+2016-04-24 22:54:31,356 INFO  [Log] ASSERT PASSED: element btn_continue is displayed. 
+2016-04-24 22:54:31,907 INFO  [Log] Step: click btn_continue
+ 
+2016-04-24 22:54:31,989 INFO  [Log] ASSERT PASSED: element rb_bka361 is displayed. 
+2016-04-24 22:54:32,111 INFO  [Log] ASSERT PASSED: element rb_bka631 is displayed. 
+2016-04-24 22:54:32,226 INFO  [Log] ASSERT PASSED: element btn_continue is displayed. 
+2016-04-24 22:54:33,228 INFO  [Log] Step: click btn_continue
+ 
+2016-04-24 22:54:33,272 INFO  [Log] ASSERT PASSED: element inp_FirstName is displayed. 
+2016-04-24 22:54:33,321 INFO  [Log] Step: Punj entered 
+2016-04-24 22:54:33,361 INFO  [Log] ASSERT PASSED: element inp_lastName is displayed. 
+2016-04-24 22:54:33,418 INFO  [Log] Step: Prakash entered 
+2016-04-24 22:54:33,455 INFO  [Log] ASSERT PASSED: element inp_credCardNaumber is displayed. 
+2016-04-24 22:54:33,528 INFO  [Log] Step: 4694875258 entered  
+2016-04-24 22:54:33,569 INFO  [Log] ASSERT PASSED: element lst_creditCard is displayed. 
+2016-04-24 22:54:33,618 INFO  [Log] Step: Visa entered 
+2016-04-24 22:54:33,670 INFO  [Log] ASSERT PASSED: element btn_continue is displayed. 
+2016-04-24 22:54:34,351 INFO  [Log] Step: click btn_continue
+ 
+2016-04-24 22:54:34,400 INFO  [Log] ASSERT PASSED: element v_Text is displayed. 
+2016-04-24 22:54:34,400 INFO  [Log] Step: Your itinerary has been booked! available 
+2016-04-24 22:54:34,441 INFO  [Log] ASSERT PASSED: element lnk_logout is displayed. 
+2016-04-24 22:54:35,183 INFO  [Log] Step: click lnk_logout
+ 
+2016-04-24 22:56:17,321 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:56:17,321 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:56:17,321 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Mercury Test       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-04-24 22:56:17,321 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:56:17,321 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:56:17,352 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:56:17,352 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:56:17,352 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Mercury Test       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-04-24 22:56:17,352 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:56:17,352 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:56:23,819 INFO  [Log] This is my info 
+2016-04-24 22:56:23,925 INFO  [Log] ASSERT PASSED: element inp_userName is displayed. 
+2016-04-24 22:56:24,687 INFO  [Log] ASSERT PASSED: element inp_password is displayed. 
+2016-04-24 22:56:24,757 INFO  [Log] Login mercury and password mercuryhas enterned
+ 
+2016-04-24 22:56:24,799 INFO  [Log] ASSERT PASSED: element btn_signIn is displayed. 
+2016-04-24 22:56:25,991 INFO  [Log] Step: click btn_signIn
+ 
+2016-04-24 22:56:26,121 INFO  [Log] ASSERT PASSED: element rb_roundTrip is displayed. 
+2016-04-24 22:56:26,237 INFO  [Log] Step: roundtrip entered 
+2016-04-24 22:56:26,278 INFO  [Log] ASSERT PASSED: element lst_pssngr is displayed. 
+2016-04-24 22:56:26,322 INFO  [Log] Step: 1.0 entered 
+2016-04-24 22:56:26,360 INFO  [Log] ASSERT PASSED: element lst_dprtFrmCity is displayed. 
+2016-04-24 22:56:26,406 INFO  [Log] Step: London entered 
+2016-04-24 22:56:26,455 INFO  [Log] ASSERT PASSED: element lst_dprtOnMnth is displayed. 
+2016-04-24 22:56:26,505 INFO  [Log] Step: December entered  
+2016-04-24 22:56:26,551 INFO  [Log] ASSERT PASSED: element lst_dprtOnDt is displayed. 
+2016-04-24 22:56:26,608 INFO  [Log] Step: 15.0 entered 
+2016-04-24 22:56:26,645 INFO  [Log] ASSERT PASSED: element lst_arrvInCity is displayed. 
+2016-04-24 22:56:26,693 INFO  [Log] Step: New York entered 
+2016-04-24 22:56:26,737 INFO  [Log] ASSERT PASSED: element lst_rtnOnMnth is displayed. 
+2016-04-24 22:56:26,793 INFO  [Log] Step: December entered 
+2016-04-24 22:56:26,830 INFO  [Log] ASSERT PASSED: element lst_rtnOnDt is displayed. 
+2016-04-24 22:56:26,872 INFO  [Log] Step: 25.0 entered 
+2016-04-24 22:56:32,661 INFO  [Log] This is my info 
+2016-04-24 22:56:32,779 INFO  [Log] ASSERT PASSED: element inp_userName is displayed. 
+2016-04-24 22:56:32,895 INFO  [Log] ASSERT PASSED: element inp_password is displayed. 
+2016-04-24 22:56:33,420 INFO  [Log] Login mercury and password mercuryhas enterned
+ 
+2016-04-24 22:56:33,458 INFO  [Log] ASSERT PASSED: element btn_signIn is displayed. 
+2016-04-24 22:56:34,675 INFO  [Log] Step: click btn_signIn
+ 
+2016-04-24 22:56:34,768 INFO  [Log] ASSERT PASSED: element rb_roundTrip is displayed. 
+2016-04-24 22:56:34,850 INFO  [Log] Step: roundtrip entered 
+2016-04-24 22:56:34,886 INFO  [Log] ASSERT PASSED: element lst_pssngr is displayed. 
+2016-04-24 22:56:34,927 INFO  [Log] Step: 1.0 entered 
+2016-04-24 22:56:34,963 INFO  [Log] ASSERT PASSED: element lst_dprtFrmCity is displayed. 
+2016-04-24 22:56:35,007 INFO  [Log] Step: London entered 
+2016-04-24 22:56:35,053 INFO  [Log] ASSERT PASSED: element lst_dprtOnMnth is displayed. 
+2016-04-24 22:56:35,111 INFO  [Log] Step: December entered  
+2016-04-24 22:56:35,149 INFO  [Log] ASSERT PASSED: element lst_dprtOnDt is displayed. 
+2016-04-24 22:56:35,195 INFO  [Log] Step: 15.0 entered 
+2016-04-24 22:56:35,237 INFO  [Log] ASSERT PASSED: element lst_arrvInCity is displayed. 
+2016-04-24 22:56:35,294 INFO  [Log] Step: New York entered 
+2016-04-24 22:56:35,331 INFO  [Log] ASSERT PASSED: element lst_rtnOnMnth is displayed. 
+2016-04-24 22:56:35,398 INFO  [Log] Step: December entered 
+2016-04-24 22:56:35,434 INFO  [Log] ASSERT PASSED: element lst_rtnOnDt is displayed. 
+2016-04-24 22:56:35,476 INFO  [Log] Step: 25.0 entered 
+2016-04-24 22:56:35,523 INFO  [Log] ASSERT PASSED: element btn_continue is displayed. 
+2016-04-24 22:56:36,027 INFO  [Log] Step: click btn_continue
+ 
+2016-04-24 22:56:36,139 INFO  [Log] ASSERT PASSED: element rb_bka361 is displayed. 
+2016-04-24 22:56:36,264 INFO  [Log] ASSERT PASSED: element rb_bka631 is displayed. 
+2016-04-24 22:56:36,383 INFO  [Log] ASSERT PASSED: element btn_continue is displayed. 
+2016-04-24 22:56:37,439 INFO  [Log] Step: click btn_continue
+ 
+2016-04-24 22:56:37,495 INFO  [Log] ASSERT PASSED: element inp_FirstName is displayed. 
+2016-04-24 22:56:37,546 INFO  [Log] Step: Punj entered 
+2016-04-24 22:56:37,585 INFO  [Log] ASSERT PASSED: element inp_lastName is displayed. 
+2016-04-24 22:56:37,644 INFO  [Log] Step: Prakash entered 
+2016-04-24 22:56:37,682 INFO  [Log] ASSERT PASSED: element inp_credCardNaumber is displayed. 
+2016-04-24 22:56:37,744 INFO  [Log] Step: 4694875258 entered  
+2016-04-24 22:56:37,800 INFO  [Log] ASSERT PASSED: element lst_creditCard is displayed. 
+2016-04-24 22:56:37,863 INFO  [Log] Step: Visa entered 
+2016-04-24 22:56:37,902 INFO  [Log] ASSERT PASSED: element btn_continue is displayed. 
+2016-04-24 22:56:38,562 INFO  [Log] Step: click btn_continue
+ 
+2016-04-24 22:56:38,608 INFO  [Log] ASSERT PASSED: element v_Text is displayed. 
+2016-04-24 22:56:38,608 INFO  [Log] Step: Your itinerary has been booked! available 
+2016-04-24 22:56:38,687 INFO  [Log] ASSERT PASSED: element lnk_logout is displayed. 
+2016-04-24 22:56:39,404 INFO  [Log] Step: click lnk_logout
+ 
+2016-04-24 22:58:36,289 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:58:36,289 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:58:36,289 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Mercury Test       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-04-24 22:58:36,289 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:58:36,289 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:58:36,335 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:58:36,335 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:58:36,335 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Mercury Test       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-04-24 22:58:36,335 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:58:36,335 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:58:45,080 INFO  [Log] This is my info 
+2016-04-24 22:58:45,185 INFO  [Log] ASSERT PASSED: element inp_userName is displayed. 
+2016-04-24 22:58:45,291 INFO  [Log] ASSERT PASSED: element inp_password is displayed. 
+2016-04-24 22:58:45,825 INFO  [Log] Login mercury and password mercuryhas enterned
+ 
+2016-04-24 22:58:45,866 INFO  [Log] ASSERT PASSED: element btn_signIn is displayed. 
+2016-04-24 22:58:47,037 INFO  [Log] Step: click btn_signIn
+ 
+2016-04-24 22:58:47,146 INFO  [Log] ASSERT PASSED: element rb_roundTrip is displayed. 
+2016-04-24 22:58:47,234 INFO  [Log] Step: roundtrip entered 
+2016-04-24 22:58:47,270 INFO  [Log] ASSERT PASSED: element lst_pssngr is displayed. 
+2016-04-24 22:58:47,314 INFO  [Log] Step: 1.0 entered 
+2016-04-24 22:58:47,347 INFO  [Log] ASSERT PASSED: element lst_dprtFrmCity is displayed. 
+2016-04-24 22:58:47,400 INFO  [Log] Step: London entered 
+2016-04-24 22:58:47,436 INFO  [Log] ASSERT PASSED: element lst_dprtOnMnth is displayed. 
+2016-04-24 22:58:47,484 INFO  [Log] Step: December entered  
+2016-04-24 22:58:47,527 INFO  [Log] ASSERT PASSED: element lst_dprtOnDt is displayed. 
+2016-04-24 22:58:47,579 INFO  [Log] Step: 15.0 entered 
+2016-04-24 22:58:47,615 INFO  [Log] ASSERT PASSED: element lst_arrvInCity is displayed. 
+2016-04-24 22:58:47,672 INFO  [Log] Step: New York entered 
+2016-04-24 22:58:47,711 INFO  [Log] ASSERT PASSED: element lst_rtnOnMnth is displayed. 
+2016-04-24 22:58:47,768 INFO  [Log] Step: December entered 
+2016-04-24 22:58:47,816 INFO  [Log] ASSERT PASSED: element lst_rtnOnDt is displayed. 
+2016-04-24 22:58:47,866 INFO  [Log] Step: 25.0 entered 
+2016-04-24 22:58:53,840 INFO  [Log] This is my info 
+2016-04-24 22:58:53,949 INFO  [Log] ASSERT PASSED: element inp_userName is displayed. 
+2016-04-24 22:58:54,061 INFO  [Log] ASSERT PASSED: element inp_password is displayed. 
+2016-04-24 22:58:54,763 INFO  [Log] Login mercury and password mercuryhas enterned
+ 
+2016-04-24 22:58:54,808 INFO  [Log] ASSERT PASSED: element btn_signIn is displayed. 
+2016-04-24 22:58:55,987 INFO  [Log] Step: click btn_signIn
+ 
+2016-04-24 22:58:56,060 INFO  [Log] ASSERT PASSED: element rb_roundTrip is displayed. 
+2016-04-24 22:58:56,141 INFO  [Log] Step: roundtrip entered 
+2016-04-24 22:58:56,176 INFO  [Log] ASSERT PASSED: element lst_pssngr is displayed. 
+2016-04-24 22:58:56,217 INFO  [Log] Step: 1.0 entered 
+2016-04-24 22:58:56,250 INFO  [Log] ASSERT PASSED: element lst_dprtFrmCity is displayed. 
+2016-04-24 22:58:56,304 INFO  [Log] Step: London entered 
+2016-04-24 22:58:56,337 INFO  [Log] ASSERT PASSED: element lst_dprtOnMnth is displayed. 
+2016-04-24 22:58:56,386 INFO  [Log] Step: December entered  
+2016-04-24 22:58:56,429 INFO  [Log] ASSERT PASSED: element lst_dprtOnDt is displayed. 
+2016-04-24 22:58:56,482 INFO  [Log] Step: 15.0 entered 
+2016-04-24 22:58:56,516 INFO  [Log] ASSERT PASSED: element lst_arrvInCity is displayed. 
+2016-04-24 22:58:56,570 INFO  [Log] Step: New York entered 
+2016-04-24 22:58:56,607 INFO  [Log] ASSERT PASSED: element lst_rtnOnMnth is displayed. 
+2016-04-24 22:58:56,654 INFO  [Log] Step: December entered 
+2016-04-24 22:58:56,707 INFO  [Log] ASSERT PASSED: element lst_rtnOnDt is displayed. 
+2016-04-24 22:58:56,748 INFO  [Log] Step: 25.0 entered 
+2016-04-24 22:58:56,793 INFO  [Log] ASSERT PASSED: element btn_continue is displayed. 
+2016-04-24 22:58:57,271 INFO  [Log] Step: click btn_continue
+ 
+2016-04-24 22:58:57,384 INFO  [Log] ASSERT PASSED: element rb_bka361 is displayed. 
+2016-04-24 22:58:57,497 INFO  [Log] ASSERT PASSED: element rb_bka631 is displayed. 
+2016-04-24 22:58:57,610 INFO  [Log] ASSERT PASSED: element btn_continue is displayed. 
+2016-04-24 22:58:58,304 INFO  [Log] Step: click btn_continue
+ 
+2016-04-24 22:58:58,360 INFO  [Log] ASSERT PASSED: element inp_FirstName is displayed. 
+2016-04-24 22:58:58,415 INFO  [Log] Step: Punj entered 
+2016-04-24 22:58:58,454 INFO  [Log] ASSERT PASSED: element inp_lastName is displayed. 
+2016-04-24 22:58:58,513 INFO  [Log] Step: Prakash entered 
+2016-04-24 22:58:58,551 INFO  [Log] ASSERT PASSED: element inp_credCardNaumber is displayed. 
+2016-04-24 22:58:58,614 INFO  [Log] Step: 4694875258 entered  
+2016-04-24 22:58:58,655 INFO  [Log] ASSERT PASSED: element lst_creditCard is displayed. 
+2016-04-24 22:58:58,706 INFO  [Log] Step: Visa entered 
+2016-04-24 22:58:58,754 INFO  [Log] ASSERT PASSED: element btn_continue is displayed. 
+2016-04-24 22:58:59,371 INFO  [Log] Step: click btn_continue
+ 
+2016-04-24 22:58:59,440 INFO  [Log] ASSERT PASSED: element v_Text is displayed. 
+2016-04-24 22:58:59,440 INFO  [Log] Step: Your itinerary has been booked! available 
+2016-04-24 22:58:59,483 INFO  [Log] ASSERT PASSED: element lnk_logout is displayed. 
+2016-04-24 22:59:00,189 INFO  [Log] Step: click lnk_logout
+ 
+2016-04-24 22:59:55,725 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:59:55,725 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:59:55,725 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Mercury Test       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-04-24 22:59:55,725 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:59:55,725 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:59:55,773 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:59:55,773 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:59:55,773 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Mercury Test       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-04-24 22:59:55,773 INFO  [Log] **************************************************************************************** 
+2016-04-24 22:59:55,773 INFO  [Log] **************************************************************************************** 
+2016-04-24 23:01:12,917 INFO  [Log] **************************************************************************************** 
+2016-04-24 23:01:12,917 INFO  [Log] **************************************************************************************** 
+2016-04-24 23:01:12,917 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Mercury Test       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-04-24 23:01:12,917 INFO  [Log] **************************************************************************************** 
+2016-04-24 23:01:12,917 INFO  [Log] **************************************************************************************** 
+2016-04-24 23:01:19,592 INFO  [Log] This is my info 
+2016-04-24 23:01:19,711 INFO  [Log] ASSERT PASSED: element inp_userName is displayed. 
+2016-04-24 23:01:19,820 INFO  [Log] ASSERT PASSED: element inp_password is displayed. 
+2016-04-24 23:01:20,478 INFO  [Log] Login mercury and password mercuryhas enterned
+ 
+2016-04-24 23:01:20,518 INFO  [Log] ASSERT PASSED: element btn_signIn is displayed. 
+2016-04-24 23:01:21,685 INFO  [Log] Step: click btn_signIn
+ 
+2016-04-24 23:01:21,811 INFO  [Log] ASSERT PASSED: element rb_roundTrip is displayed. 
+2016-04-24 23:01:21,927 INFO  [Log] Step: roundtrip entered 
+2016-04-24 23:01:21,963 INFO  [Log] ASSERT PASSED: element lst_pssngr is displayed. 
+2016-04-24 23:01:22,006 INFO  [Log] Step: 1.0 entered 
+2016-04-24 23:01:22,040 INFO  [Log] ASSERT PASSED: element lst_dprtFrmCity is displayed. 
+2016-04-24 23:01:22,084 INFO  [Log] Step: London entered 
+2016-04-24 23:01:22,126 INFO  [Log] ASSERT PASSED: element lst_dprtOnMnth is displayed. 
+2016-04-24 23:01:22,183 INFO  [Log] Step: December entered  
+2016-04-24 23:01:22,218 INFO  [Log] ASSERT PASSED: element lst_dprtOnDt is displayed. 
+2016-04-24 23:01:22,263 INFO  [Log] Step: 15.0 entered 
+2016-04-24 23:01:22,306 INFO  [Log] ASSERT PASSED: element lst_arrvInCity is displayed. 
+2016-04-24 23:01:22,363 INFO  [Log] Step: New York entered 
+2016-04-24 23:01:22,408 INFO  [Log] ASSERT PASSED: element lst_rtnOnMnth is displayed. 
+2016-04-24 23:01:22,464 INFO  [Log] Step: December entered 
+2016-04-24 23:01:22,498 INFO  [Log] ASSERT PASSED: element lst_rtnOnDt is displayed. 
+2016-04-24 23:01:22,549 INFO  [Log] Step: 25.0 entered 
+2016-04-24 23:01:22,589 INFO  [Log] ASSERT PASSED: element btn_continue is displayed. 
+2016-04-24 23:01:23,168 INFO  [Log] Step: click btn_continue
+ 
+2016-04-24 23:01:23,231 INFO  [Log] ASSERT PASSED: element rb_bka361 is displayed. 
+2016-04-24 23:01:23,343 INFO  [Log] ASSERT PASSED: element rb_bka631 is displayed. 
+2016-04-24 23:01:23,460 INFO  [Log] ASSERT PASSED: element btn_continue is displayed. 
+2016-04-24 23:01:24,332 INFO  [Log] Step: click btn_continue
+ 
+2016-04-24 23:01:24,376 INFO  [Log] ASSERT PASSED: element inp_FirstName is displayed. 
+2016-04-24 23:01:24,427 INFO  [Log] Step: Punj entered 
+2016-04-24 23:01:24,466 INFO  [Log] ASSERT PASSED: element inp_lastName is displayed. 
+2016-04-24 23:01:24,563 INFO  [Log] Step: Prakash entered 
+2016-04-24 23:01:24,612 INFO  [Log] ASSERT PASSED: element inp_credCardNaumber is displayed. 
+2016-04-24 23:01:24,700 INFO  [Log] Step: 4694875258 entered  
+2016-04-24 23:01:24,748 INFO  [Log] ASSERT PASSED: element lst_creditCard is displayed. 
+2016-04-24 23:01:24,850 INFO  [Log] Step: Visa entered 
+2016-04-24 23:01:24,898 INFO  [Log] ASSERT PASSED: element btn_continue is displayed. 
+2016-04-24 23:01:25,591 INFO  [Log] Step: click btn_continue
+ 
+2016-04-24 23:01:25,634 INFO  [Log] ASSERT PASSED: element v_Text is displayed. 
+2016-04-24 23:01:25,635 INFO  [Log] Step: Your itinerary has been booked! available 
+2016-04-24 23:01:25,672 INFO  [Log] ASSERT PASSED: element lnk_logout is displayed. 
+2016-04-24 23:01:26,381 INFO  [Log] Step: click lnk_logout
+ 
+2016-05-01 19:20:13,781 INFO  [Log] **************************************************************************************** 
+2016-05-01 19:20:13,781 INFO  [Log] **************************************************************************************** 
+2016-05-01 19:20:13,781 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Mercury Test       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-05-01 19:20:13,781 INFO  [Log] **************************************************************************************** 
+2016-05-01 19:20:13,781 INFO  [Log] **************************************************************************************** 
+2016-05-01 19:20:13,828 INFO  [Log] **************************************************************************************** 
+2016-05-01 19:20:13,828 INFO  [Log] **************************************************************************************** 
+2016-05-01 19:20:13,828 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Mercury Test       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-05-01 19:20:13,828 INFO  [Log] **************************************************************************************** 
+2016-05-01 19:20:13,828 INFO  [Log] **************************************************************************************** 
+2016-05-01 19:20:24,274 INFO  [Log] This is my info 
+2016-05-01 19:20:24,429 INFO  [Log] ASSERT PASSED: element inp_userName is displayed. 
+2016-05-01 19:20:24,542 INFO  [Log] ASSERT PASSED: element inp_password is displayed. 
+2016-05-01 19:20:25,338 INFO  [Log] Login mercury and password mercuryhas enterned
+ 
+2016-05-01 19:20:25,376 INFO  [Log] ASSERT PASSED: element btn_signIn is displayed. 
+2016-05-01 19:20:26,473 INFO  [Log] Step: click btn_signIn
+ 
+2016-05-01 19:20:26,622 INFO  [Log] ASSERT PASSED: element rb_roundTrip is displayed. 
+2016-05-01 19:20:26,714 INFO  [Log] Step: roundtrip entered 
+2016-05-01 19:20:26,751 INFO  [Log] ASSERT PASSED: element lst_pssngr is displayed. 
+2016-05-01 19:20:26,793 INFO  [Log] Step: 1.0 entered 
+2016-05-01 19:20:26,828 INFO  [Log] ASSERT PASSED: element lst_dprtFrmCity is displayed. 
+2016-05-01 19:20:26,872 INFO  [Log] Step: London entered 
+2016-05-01 19:20:26,917 INFO  [Log] ASSERT PASSED: element lst_dprtOnMnth is displayed. 
+2016-05-01 19:20:26,974 INFO  [Log] Step: December entered  
+2016-05-01 19:20:27,009 INFO  [Log] ASSERT PASSED: element lst_dprtOnDt is displayed. 
+2016-05-01 19:20:27,056 INFO  [Log] Step: 15.0 entered 
+2016-05-01 19:20:27,109 INFO  [Log] ASSERT PASSED: element lst_arrvInCity is displayed. 
+2016-05-01 19:20:27,175 INFO  [Log] Step: New York entered 
+2016-05-01 19:20:27,212 INFO  [Log] ASSERT PASSED: element lst_rtnOnMnth is displayed. 
+2016-05-01 19:20:27,270 INFO  [Log] Step: December entered 
+2016-05-01 19:20:27,306 INFO  [Log] ASSERT PASSED: element lst_rtnOnDt is displayed. 
+2016-05-01 19:20:27,349 INFO  [Log] Step: 25.0 entered 
+2016-05-01 19:20:32,721 INFO  [Log] This is my info 
+2016-05-01 19:20:32,832 INFO  [Log] ASSERT PASSED: element inp_userName is displayed. 
+2016-05-01 19:20:33,403 INFO  [Log] ASSERT PASSED: element inp_password is displayed. 
+2016-05-01 19:20:33,462 INFO  [Log] Login mercury and password mercuryhas enterned
+ 
+2016-05-01 19:20:33,497 INFO  [Log] ASSERT PASSED: element btn_signIn is displayed. 
+2016-05-01 19:20:34,415 INFO  [Log] Step: click btn_signIn
+ 
+2016-05-01 19:20:34,526 INFO  [Log] ASSERT PASSED: element rb_roundTrip is displayed. 
+2016-05-01 19:20:34,667 INFO  [Log] Step: roundtrip entered 
+2016-05-01 19:20:34,701 INFO  [Log] ASSERT PASSED: element lst_pssngr is displayed. 
+2016-05-01 19:20:34,743 INFO  [Log] Step: 1.0 entered 
+2016-05-01 19:20:34,780 INFO  [Log] ASSERT PASSED: element lst_dprtFrmCity is displayed. 
+2016-05-01 19:20:34,824 INFO  [Log] Step: London entered 
+2016-05-01 19:20:34,867 INFO  [Log] ASSERT PASSED: element lst_dprtOnMnth is displayed. 
+2016-05-01 19:20:34,929 INFO  [Log] Step: December entered  
+2016-05-01 19:20:34,964 INFO  [Log] ASSERT PASSED: element lst_dprtOnDt is displayed. 
+2016-05-01 19:20:35,020 INFO  [Log] Step: 15.0 entered 
+2016-05-01 19:20:35,055 INFO  [Log] ASSERT PASSED: element lst_arrvInCity is displayed. 
+2016-05-01 19:20:35,110 INFO  [Log] Step: New York entered 
+2016-05-01 19:20:35,146 INFO  [Log] ASSERT PASSED: element lst_rtnOnMnth is displayed. 
+2016-05-01 19:20:35,202 INFO  [Log] Step: December entered 
+2016-05-01 19:20:35,237 INFO  [Log] ASSERT PASSED: element lst_rtnOnDt is displayed. 
+2016-05-01 19:20:35,288 INFO  [Log] Step: 25.0 entered 
+2016-05-01 19:20:35,328 INFO  [Log] ASSERT PASSED: element btn_continue is displayed. 
+2016-05-01 19:20:35,628 INFO  [Log] Step: click btn_continue
+ 
+2016-05-01 19:20:35,756 INFO  [Log] ASSERT PASSED: element rb_bka361 is displayed. 
+2016-05-01 19:20:35,907 INFO  [Log] ASSERT PASSED: element rb_bka631 is displayed. 
+2016-05-01 19:20:36,026 INFO  [Log] ASSERT PASSED: element btn_continue is displayed. 
+2016-05-01 19:20:36,437 INFO  [Log] Step: click btn_continue
+ 
+2016-05-01 19:20:36,490 INFO  [Log] ASSERT PASSED: element inp_FirstName is displayed. 
+2016-05-01 19:20:36,541 INFO  [Log] Step: Punj entered 
+2016-05-01 19:20:36,581 INFO  [Log] ASSERT PASSED: element inp_lastName is displayed. 
+2016-05-01 19:20:36,639 INFO  [Log] Step: Prakash entered 
+2016-05-01 19:20:36,677 INFO  [Log] ASSERT PASSED: element inp_credCardNaumber is displayed. 
+2016-05-01 19:20:36,739 INFO  [Log] Step: 4694875258 entered  
+2016-05-01 19:20:36,782 INFO  [Log] ASSERT PASSED: element lst_creditCard is displayed. 
+2016-05-01 19:20:36,836 INFO  [Log] Step: Visa entered 
+2016-05-01 19:20:36,886 INFO  [Log] ASSERT PASSED: element btn_continue is displayed. 
+2016-05-01 19:20:37,303 INFO  [Log] Step: click btn_continue
+ 
+2016-05-01 19:20:37,345 INFO  [Log] ASSERT PASSED: element v_Text is displayed. 
+2016-05-01 19:20:37,345 INFO  [Log] Step: Your itinerary has been booked! available 
+2016-05-01 19:20:37,377 INFO  [Log] ASSERT PASSED: element lnk_logout is displayed. 
+2016-05-01 19:20:37,753 INFO  [Log] Step: click lnk_logout
+ 
+2016-05-01 19:23:04,102 INFO  [Log] **************************************************************************************** 
+2016-05-01 19:23:04,103 INFO  [Log] **************************************************************************************** 
+2016-05-01 19:23:04,103 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Mercury Test       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-05-01 19:23:04,103 INFO  [Log] **************************************************************************************** 
+2016-05-01 19:23:04,103 INFO  [Log] **************************************************************************************** 
+2016-05-01 19:25:37,812 INFO  [Log] **************************************************************************************** 
+2016-05-01 19:25:37,812 INFO  [Log] **************************************************************************************** 
+2016-05-01 19:25:37,812 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Mercury Test       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-05-01 19:25:37,812 INFO  [Log] **************************************************************************************** 
+2016-05-01 19:25:37,812 INFO  [Log] **************************************************************************************** 
+2016-05-01 19:26:19,035 INFO  [Log] **************************************************************************************** 
+2016-05-01 19:26:19,035 INFO  [Log] **************************************************************************************** 
+2016-05-01 19:26:19,035 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Mercury Test       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-05-01 19:26:19,035 INFO  [Log] **************************************************************************************** 
+2016-05-01 19:26:19,035 INFO  [Log] **************************************************************************************** 
+2016-05-01 19:26:21,045 INFO  [Log] This is my info 
+2016-05-01 19:26:21,241 WARN  [DefaultCssErrorHandler] CSS error: 'http://newtours.demoaut.com/' [3:46] Error in expression; ':' found after identifier "COLOR". 
+2016-05-01 19:26:21,243 WARN  [DefaultCssErrorHandler] CSS error: 'http://newtours.demoaut.com/' [6:21] Error in expression; ':' found after identifier "COLOR". 
+2016-05-01 19:26:21,245 WARN  [DefaultCssErrorHandler] CSS error: 'http://newtours.demoaut.com/' [23:94] Error in declaration. (Invalid token "=". Was expecting one of: <S>, ":".) 
+2016-05-01 19:26:21,384 WARN  [DefaultCssErrorHandler] CSS error: 'http://newtours.demoaut.com/' [24:99] Error in declaration. (Invalid token "=". Was expecting one of: <S>, ":".) 
+2016-05-01 19:26:21,391 INFO  [Log] ASSERT PASSED: element inp_userName is displayed. 
+2016-05-01 19:26:21,408 INFO  [Log] ASSERT PASSED: element inp_password is displayed. 
+2016-05-01 19:26:21,411 INFO  [Log] Login mercury and password mercuryhas enterned
+ 
+2016-05-01 19:26:21,412 INFO  [Log] ASSERT PASSED: element btn_signIn is displayed. 
+2016-05-01 19:26:22,191 INFO  [Log] Step: click btn_signIn
+ 
+2016-05-01 19:26:22,200 INFO  [Log] ASSERT PASSED: element rb_roundTrip is displayed. 
+2016-05-01 19:26:22,205 INFO  [Log] Step: roundtrip entered 
+2016-05-01 19:26:22,209 INFO  [Log] ASSERT PASSED: element lst_pssngr is displayed. 
+2016-05-01 19:28:18,097 INFO  [Log] **************************************************************************************** 
+2016-05-01 19:28:18,098 INFO  [Log] **************************************************************************************** 
+2016-05-01 19:28:18,098 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Mercury Test       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-05-01 19:28:18,098 INFO  [Log] **************************************************************************************** 
+2016-05-01 19:28:18,098 INFO  [Log] **************************************************************************************** 
+2016-05-01 19:28:20,062 INFO  [Log] This is my info 
+2016-05-01 19:28:20,298 WARN  [DefaultCssErrorHandler] CSS error: 'http://newtours.demoaut.com/' [3:46] Error in expression; ':' found after identifier "COLOR". 
+2016-05-01 19:28:20,303 WARN  [DefaultCssErrorHandler] CSS error: 'http://newtours.demoaut.com/' [6:21] Error in expression; ':' found after identifier "COLOR". 
+2016-05-01 19:28:20,305 WARN  [DefaultCssErrorHandler] CSS error: 'http://newtours.demoaut.com/' [23:94] Error in declaration. (Invalid token "=". Was expecting one of: <S>, ":".) 
+2016-05-01 19:28:20,448 WARN  [DefaultCssErrorHandler] CSS error: 'http://newtours.demoaut.com/' [24:99] Error in declaration. (Invalid token "=". Was expecting one of: <S>, ":".) 
+2016-05-01 19:28:20,455 INFO  [Log] ASSERT PASSED: element inp_userName is displayed. 
+2016-05-01 19:28:20,468 INFO  [Log] ASSERT PASSED: element inp_password is displayed. 
+2016-05-01 19:28:20,469 INFO  [Log] Login mercury and password mercuryhas enterned
+ 
+2016-05-01 19:28:20,472 INFO  [Log] ASSERT PASSED: element btn_signIn is displayed. 
+2016-05-01 19:28:21,195 INFO  [Log] Step: click btn_signIn
+ 
+2016-05-01 19:28:21,201 INFO  [Log] ASSERT PASSED: element rb_roundTrip is displayed. 
+2016-05-01 19:28:21,204 INFO  [Log] Step: roundtrip entered 
+2016-05-01 19:28:21,208 INFO  [Log] ASSERT PASSED: element lst_pssngr is displayed. 
+2016-05-01 19:28:59,590 INFO  [Log] **************************************************************************************** 
+2016-05-01 19:28:59,590 INFO  [Log] **************************************************************************************** 
+2016-05-01 19:28:59,590 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Mercury Test       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-05-01 19:28:59,590 INFO  [Log] **************************************************************************************** 
+2016-05-01 19:28:59,590 INFO  [Log] **************************************************************************************** 
+2016-05-01 19:29:08,228 INFO  [Log] This is my info 
+2016-05-01 19:29:08,681 INFO  [Log] ASSERT PASSED: element inp_userName is displayed. 
+2016-05-01 19:29:37,257 INFO  [Log] **************************************************************************************** 
+2016-05-01 19:29:37,263 INFO  [Log] **************************************************************************************** 
+2016-05-01 19:29:37,263 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Mercury Test       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-05-01 19:29:37,263 INFO  [Log] **************************************************************************************** 
+2016-05-01 19:29:37,263 INFO  [Log] **************************************************************************************** 
+2016-05-01 19:29:39,718 INFO  [Log] This is my info 
+2016-05-01 19:29:39,924 WARN  [DefaultCssErrorHandler] CSS error: 'http://newtours.demoaut.com/' [3:46] Error in expression; ':' found after identifier "COLOR". 
+2016-05-01 19:29:39,925 WARN  [DefaultCssErrorHandler] CSS error: 'http://newtours.demoaut.com/' [6:21] Error in expression; ':' found after identifier "COLOR". 
+2016-05-01 19:29:39,928 WARN  [DefaultCssErrorHandler] CSS error: 'http://newtours.demoaut.com/' [23:94] Error in declaration. (Invalid token "=". Was expecting one of: <S>, ":".) 
+2016-05-01 19:29:40,061 WARN  [DefaultCssErrorHandler] CSS error: 'http://newtours.demoaut.com/' [24:99] Error in declaration. (Invalid token "=". Was expecting one of: <S>, ":".) 
+2016-05-01 19:29:40,069 INFO  [Log] ASSERT PASSED: element inp_userName is displayed. 
+2016-05-01 19:29:40,087 INFO  [Log] ASSERT PASSED: element inp_password is displayed. 
+2016-05-01 19:29:40,097 INFO  [Log] Login mercury and password mercuryhas enterned
+ 
+2016-05-01 19:29:40,102 INFO  [Log] ASSERT PASSED: element btn_signIn is displayed. 
+2016-05-01 19:29:40,830 INFO  [Log] Step: click btn_signIn
+ 
+2016-05-01 19:29:40,868 INFO  [Log] ASSERT PASSED: element rb_roundTrip is displayed. 
+2016-05-01 19:29:40,871 INFO  [Log] Step: roundtrip entered 
+2016-05-01 19:29:40,874 INFO  [Log] ASSERT PASSED: element lst_pssngr is displayed. 
+2016-05-01 19:29:40,878 INFO  [Log] Step: 1.0 entered 
+2016-05-01 19:29:40,881 INFO  [Log] ASSERT PASSED: element lst_dprtFrmCity is displayed. 
+2016-05-01 19:29:40,884 INFO  [Log] Step: London entered 
+2016-05-01 19:29:40,889 INFO  [Log] ASSERT PASSED: element lst_dprtOnMnth is displayed. 
+2016-05-01 19:29:40,893 INFO  [Log] Step: December entered  
+2016-05-01 19:29:40,898 INFO  [Log] ASSERT PASSED: element lst_dprtOnDt is displayed. 
+2016-05-01 19:29:40,906 INFO  [Log] Step: 15.0 entered 
+2016-05-01 19:29:40,911 INFO  [Log] ASSERT PASSED: element lst_arrvInCity is displayed. 
+2016-05-01 19:29:40,917 INFO  [Log] Step: New York entered 
+2016-05-01 19:29:40,920 INFO  [Log] ASSERT PASSED: element lst_rtnOnMnth is displayed. 
+2016-05-01 19:29:40,924 INFO  [Log] Step: December entered 
+2016-05-01 19:29:40,927 INFO  [Log] ASSERT PASSED: element lst_rtnOnDt is displayed. 
+2016-05-01 19:29:40,934 INFO  [Log] Step: 25.0 entered 
+2016-05-01 20:25:52,304 INFO  [Log] **************************************************************************************** 
+2016-05-01 20:25:52,304 INFO  [Log] **************************************************************************************** 
+2016-05-01 20:25:52,304 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Mercury Test       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-05-01 20:25:52,304 INFO  [Log] **************************************************************************************** 
+2016-05-01 20:25:52,304 INFO  [Log] **************************************************************************************** 
+2016-05-01 20:25:54,173 INFO  [Log] This is my info 
+2016-05-01 20:25:54,306 WARN  [DefaultCssErrorHandler] CSS error: 'http://newtours.demoaut.com/' [3:46] Error in expression; ':' found after identifier "COLOR". 
+2016-05-01 20:25:54,309 WARN  [DefaultCssErrorHandler] CSS error: 'http://newtours.demoaut.com/' [6:21] Error in expression; ':' found after identifier "COLOR". 
+2016-05-01 20:25:54,311 WARN  [DefaultCssErrorHandler] CSS error: 'http://newtours.demoaut.com/' [23:94] Error in declaration. (Invalid token "=". Was expecting one of: <S>, ":".) 
+2016-05-01 20:25:54,426 WARN  [DefaultCssErrorHandler] CSS error: 'http://newtours.demoaut.com/' [24:99] Error in declaration. (Invalid token "=". Was expecting one of: <S>, ":".) 
+2016-05-01 20:25:54,426 INFO  [Log] ASSERT PASSED: element inp_userName is displayed. 
+2016-05-01 20:25:54,441 INFO  [Log] ASSERT PASSED: element inp_password is displayed. 
+2016-05-01 20:25:54,441 INFO  [Log] Login mercury and password mercuryhas enterned
+ 
+2016-05-01 20:25:54,457 INFO  [Log] ASSERT PASSED: element btn_signIn is displayed. 
+2016-05-01 20:25:55,214 INFO  [Log] Step: click btn_signIn
+ 
+2016-05-01 20:25:55,225 INFO  [Log] ASSERT PASSED: element rb_roundTrip is displayed. 
+2016-05-01 20:25:55,225 INFO  [Log] Step: roundtrip entered 
+2016-05-01 20:25:55,225 INFO  [Log] ASSERT PASSED: element lst_pssngr is displayed. 
+2016-05-01 20:25:55,225 INFO  [Log] Step: 1.0 entered 
+2016-05-01 20:25:55,225 INFO  [Log] ASSERT PASSED: element lst_dprtFrmCity is displayed. 
+2016-05-01 20:25:55,225 INFO  [Log] Step: London entered 
+2016-05-01 20:25:55,241 INFO  [Log] ASSERT PASSED: element lst_dprtOnMnth is displayed. 
+2016-05-01 20:25:55,241 INFO  [Log] Step: December entered  
+2016-05-01 20:25:55,241 INFO  [Log] ASSERT PASSED: element lst_dprtOnDt is displayed. 
+2016-05-01 20:25:55,241 INFO  [Log] Step: 15.0 entered 
+2016-05-01 20:25:55,257 INFO  [Log] ASSERT PASSED: element lst_arrvInCity is displayed. 
+2016-05-01 20:25:55,257 INFO  [Log] Step: New York entered 
+2016-05-01 20:25:55,257 INFO  [Log] ASSERT PASSED: element lst_rtnOnMnth is displayed. 
+2016-05-01 20:25:55,257 INFO  [Log] Step: December entered 
+2016-05-01 20:25:55,257 INFO  [Log] ASSERT PASSED: element lst_rtnOnDt is displayed. 
+2016-05-01 20:25:55,272 INFO  [Log] Step: 25.0 entered 
+2016-05-07 13:02:00,368 INFO  [Log] **************************************************************************************** 
+2016-05-07 13:02:00,377 INFO  [Log] **************************************************************************************** 
+2016-05-07 13:02:00,377 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Mercury Test       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-05-07 13:02:00,377 INFO  [Log] **************************************************************************************** 
+2016-05-07 13:02:00,377 INFO  [Log] **************************************************************************************** 
+2016-05-07 13:02:04,091 INFO  [Log] This is my info 
+2016-05-07 13:02:04,382 WARN  [DefaultCssErrorHandler] CSS error: 'http://newtours.demoaut.com/' [3:46] Error in expression; ':' found after identifier "COLOR". 
+2016-05-07 13:02:04,384 WARN  [DefaultCssErrorHandler] CSS error: 'http://newtours.demoaut.com/' [6:21] Error in expression; ':' found after identifier "COLOR". 
+2016-05-07 13:02:04,386 WARN  [DefaultCssErrorHandler] CSS error: 'http://newtours.demoaut.com/' [23:94] Error in declaration. (Invalid token "=". Was expecting one of: <S>, ":".) 
+2016-05-07 13:02:04,504 WARN  [DefaultCssErrorHandler] CSS error: 'http://newtours.demoaut.com/' [24:99] Error in declaration. (Invalid token "=". Was expecting one of: <S>, ":".) 
+2016-05-07 13:02:04,509 INFO  [Log] ASSERT PASSED: element inp_userName is displayed. 
+2016-05-07 13:02:04,521 INFO  [Log] ASSERT PASSED: element inp_password is displayed. 
+2016-05-07 13:02:04,525 INFO  [Log] Login mercury and password mercuryhas enterned
+ 
+2016-05-07 13:02:04,526 INFO  [Log] ASSERT PASSED: element btn_signIn is displayed. 
+2016-05-07 13:02:05,385 INFO  [Log] Step: click btn_signIn
+ 
+2016-05-07 13:02:05,402 INFO  [Log] ASSERT PASSED: element rb_roundTrip is displayed. 
+2016-05-07 13:02:05,405 INFO  [Log] Step: roundtrip entered 
+2016-05-07 13:02:05,407 INFO  [Log] ASSERT PASSED: element lst_pssngr is displayed. 
+2016-05-07 13:02:05,410 INFO  [Log] Step: 1.0 entered 
+2016-05-07 13:02:05,412 INFO  [Log] ASSERT PASSED: element lst_dprtFrmCity is displayed. 
+2016-05-07 13:02:05,414 INFO  [Log] Step: London entered 
+2016-05-07 13:02:05,418 INFO  [Log] ASSERT PASSED: element lst_dprtOnMnth is displayed. 
+2016-05-07 13:02:05,421 INFO  [Log] Step: December entered  
+2016-05-07 13:02:05,424 INFO  [Log] ASSERT PASSED: element lst_dprtOnDt is displayed. 
+2016-05-07 13:02:05,428 INFO  [Log] Step: 15.0 entered 
+2016-05-07 13:02:05,430 INFO  [Log] ASSERT PASSED: element lst_arrvInCity is displayed. 
+2016-05-07 13:02:05,434 INFO  [Log] Step: New York entered 
+2016-05-07 13:02:05,437 INFO  [Log] ASSERT PASSED: element lst_rtnOnMnth is displayed. 
+2016-05-07 13:02:05,441 INFO  [Log] Step: December entered 
+2016-05-07 13:02:05,444 INFO  [Log] ASSERT PASSED: element lst_rtnOnDt is displayed. 
+2016-05-07 13:02:05,448 INFO  [Log] Step: 25.0 entered 
+2016-05-07 13:02:05,460 INFO  [Log] ASSERT PASSED: element btn_continue is displayed. 
+2016-05-07 13:02:06,687 INFO  [Log] Step: click btn_continue
+ 
+2016-05-07 13:02:06,798 INFO  [Log] ASSERT PASSED: element rb_bka361 is displayed. 
+2016-05-07 13:02:06,810 INFO  [Log] ASSERT PASSED: element rb_bka631 is displayed. 
+2016-05-07 13:02:06,822 INFO  [Log] ASSERT PASSED: element btn_continue is displayed. 
+2016-05-07 13:02:07,226 INFO  [Log] Step: click btn_continue
+ 
+2016-05-07 13:02:07,240 INFO  [Log] ASSERT PASSED: element inp_FirstName is displayed. 
+2016-05-07 13:02:07,246 INFO  [Log] Step: Punj entered 
+2016-05-07 13:02:07,250 INFO  [Log] ASSERT PASSED: element inp_lastName is displayed. 
+2016-05-07 13:02:07,255 INFO  [Log] Step: Prakash entered 
+2016-05-07 13:02:07,259 INFO  [Log] ASSERT PASSED: element inp_credCardNaumber is displayed. 
+2016-05-07 13:02:07,264 INFO  [Log] Step: 4694875258 entered  
+2016-05-07 13:02:07,268 INFO  [Log] ASSERT PASSED: element lst_creditCard is displayed. 
+2016-05-07 13:02:07,272 INFO  [Log] Step: Visa entered 
+2016-05-07 13:02:07,276 INFO  [Log] ASSERT PASSED: element btn_continue is displayed. 
+2016-05-07 13:02:07,480 INFO  [Log] Step: click btn_continue
+ 
+2016-05-07 13:02:07,482 INFO  [Log] ASSERT PASSED: element v_Text is displayed. 
+2016-05-07 13:02:07,482 INFO  [Log] Step: Your itinerary has been booked! available 
+2016-05-07 13:02:07,486 INFO  [Log] ASSERT PASSED: element lnk_logout is displayed. 
+2016-05-07 13:02:07,756 INFO  [Log] Step: click lnk_logout
+ 
+2016-05-07 13:02:59,584 INFO  [Log] **************************************************************************************** 
+2016-05-07 13:02:59,585 INFO  [Log] **************************************************************************************** 
+2016-05-07 13:02:59,585 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Mercury Test       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-05-07 13:02:59,585 INFO  [Log] **************************************************************************************** 
+2016-05-07 13:02:59,585 INFO  [Log] **************************************************************************************** 
+2016-05-07 13:03:09,795 INFO  [Log] This is my info 
+2016-05-07 13:03:09,923 INFO  [Log] ASSERT PASSED: element inp_userName is displayed. 
+2016-05-07 13:03:10,035 INFO  [Log] ASSERT PASSED: element inp_password is displayed. 
+2016-05-07 13:03:10,974 INFO  [Log] Login mercury and password mercuryhas enterned
+ 
+2016-05-07 13:03:11,012 INFO  [Log] ASSERT PASSED: element btn_signIn is displayed. 
+2016-05-07 13:03:12,100 INFO  [Log] Step: click btn_signIn
+ 
+2016-05-07 13:03:12,219 INFO  [Log] ASSERT PASSED: element rb_roundTrip is displayed. 
+2016-05-07 13:03:12,340 INFO  [Log] Step: roundtrip entered 
+2016-05-07 13:03:12,377 INFO  [Log] ASSERT PASSED: element lst_pssngr is displayed. 
+2016-05-07 13:03:12,421 INFO  [Log] Step: 1.0 entered 
+2016-05-07 13:03:12,459 INFO  [Log] ASSERT PASSED: element lst_dprtFrmCity is displayed. 
+2016-05-07 13:03:12,513 INFO  [Log] Step: London entered 
+2016-05-07 13:03:12,552 INFO  [Log] ASSERT PASSED: element lst_dprtOnMnth is displayed. 
+2016-05-07 13:03:12,615 INFO  [Log] Step: December entered  
+2016-05-07 13:03:12,656 INFO  [Log] ASSERT PASSED: element lst_dprtOnDt is displayed. 
+2016-05-07 13:03:12,713 INFO  [Log] Step: 15.0 entered 
+2016-05-07 13:03:12,749 INFO  [Log] ASSERT PASSED: element lst_arrvInCity is displayed. 
+2016-05-07 13:03:12,800 INFO  [Log] Step: New York entered 
+2016-05-07 13:03:12,842 INFO  [Log] ASSERT PASSED: element lst_rtnOnMnth is displayed. 
+2016-05-07 13:03:12,899 INFO  [Log] Step: December entered 
+2016-05-07 13:03:12,934 INFO  [Log] ASSERT PASSED: element lst_rtnOnDt is displayed. 
+2016-05-07 13:03:12,976 INFO  [Log] Step: 25.0 entered 
+2016-05-07 13:03:13,024 INFO  [Log] ASSERT PASSED: element btn_continue is displayed. 
+2016-05-07 13:03:13,384 INFO  [Log] Step: click btn_continue
+ 
+2016-05-07 13:03:13,496 INFO  [Log] ASSERT PASSED: element rb_bka361 is displayed. 
+2016-05-07 13:03:13,630 INFO  [Log] ASSERT PASSED: element rb_bka631 is displayed. 
+2016-05-07 13:03:13,742 INFO  [Log] ASSERT PASSED: element btn_continue is displayed. 
+2016-05-07 13:03:14,149 INFO  [Log] Step: click btn_continue
+ 
+2016-05-07 13:03:14,254 INFO  [Log] ASSERT PASSED: element inp_FirstName is displayed. 
+2016-05-07 13:03:14,317 INFO  [Log] Step: Punj entered 
+2016-05-07 13:03:14,380 INFO  [Log] ASSERT PASSED: element inp_lastName is displayed. 
+2016-05-07 13:03:14,459 INFO  [Log] Step: Prakash entered 
+2016-05-07 13:03:14,511 INFO  [Log] ASSERT PASSED: element inp_credCardNaumber is displayed. 
+2016-05-07 13:03:14,615 INFO  [Log] Step: 4694875258 entered  
+2016-05-07 13:03:14,664 INFO  [Log] ASSERT PASSED: element lst_creditCard is displayed. 
+2016-05-07 13:03:14,741 INFO  [Log] Step: Visa entered 
+2016-05-07 13:03:14,787 INFO  [Log] ASSERT PASSED: element btn_continue is displayed. 
+2016-05-07 13:03:15,192 INFO  [Log] Step: click btn_continue
+ 
+2016-05-07 13:03:15,231 INFO  [Log] ASSERT PASSED: element v_Text is displayed. 
+2016-05-07 13:03:15,231 INFO  [Log] Step: Your itinerary has been booked! available 
+2016-05-07 13:03:15,266 INFO  [Log] ASSERT PASSED: element lnk_logout is displayed. 
+2016-05-07 13:03:15,677 INFO  [Log] Step: click lnk_logout
+ 
+2016-05-18 19:42:08,543 INFO  [Log] **************************************************************************************** 
+2016-05-18 19:42:08,544 INFO  [Log] **************************************************************************************** 
+2016-05-18 19:42:08,544 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Mercury Test       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-05-18 19:42:08,544 INFO  [Log] **************************************************************************************** 
+2016-05-18 19:42:08,544 INFO  [Log] **************************************************************************************** 
+2016-05-18 19:42:24,431 INFO  [Log] This is my info 
+2016-05-18 19:42:24,576 INFO  [Log] ASSERT PASSED: element inp_userName is displayed. 
+2016-05-18 19:42:25,518 INFO  [Log] ASSERT PASSED: element inp_password is displayed. 
+2016-05-18 19:42:25,581 INFO  [Log] Login mercury and password mercuryhas enterned
+ 
+2016-05-18 19:42:25,623 INFO  [Log] ASSERT PASSED: element btn_signIn is displayed. 
+2016-05-18 19:42:26,842 INFO  [Log] Step: click btn_signIn
+ 
+2016-05-18 19:42:27,020 INFO  [Log] ASSERT PASSED: element rb_roundTrip is displayed. 
+2016-05-18 19:42:27,127 INFO  [Log] Step: roundtrip entered 
+2016-05-18 19:42:27,180 INFO  [Log] ASSERT PASSED: element lst_pssngr is displayed. 
+2016-05-18 19:42:27,243 INFO  [Log] Step: 1.0 entered 
+2016-05-18 19:42:27,301 INFO  [Log] ASSERT PASSED: element lst_dprtFrmCity is displayed. 
+2016-05-18 19:42:27,428 INFO  [Log] Step: London entered 
+2016-05-18 19:42:27,498 INFO  [Log] ASSERT PASSED: element lst_dprtOnMnth is displayed. 
+2016-05-18 19:42:27,564 INFO  [Log] Step: December entered  
+2016-05-18 19:42:27,634 INFO  [Log] ASSERT PASSED: element lst_dprtOnDt is displayed. 
+2016-05-18 19:42:27,698 INFO  [Log] Step: 15.0 entered 
+2016-05-18 19:42:27,739 INFO  [Log] ASSERT PASSED: element lst_arrvInCity is displayed. 
+2016-05-18 19:42:27,822 INFO  [Log] Step: New York entered 
+2016-05-18 19:42:27,865 INFO  [Log] ASSERT PASSED: element lst_rtnOnMnth is displayed. 
+2016-05-18 19:42:27,930 INFO  [Log] Step: December entered 
+2016-05-18 19:42:27,974 INFO  [Log] ASSERT PASSED: element lst_rtnOnDt is displayed. 
+2016-05-18 19:42:28,026 INFO  [Log] Step: 25.0 entered 
+2016-05-18 19:43:11,096 INFO  [Log] **************************************************************************************** 
+2016-05-18 19:43:11,097 INFO  [Log] **************************************************************************************** 
+2016-05-18 19:43:11,097 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Mercury Test       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-05-18 19:43:11,097 INFO  [Log] **************************************************************************************** 
+2016-05-18 19:43:11,097 INFO  [Log] **************************************************************************************** 
+2016-05-18 19:43:18,307 INFO  [Log] This is my info 
+2016-05-18 19:43:18,433 INFO  [Log] ASSERT PASSED: element inp_userName is displayed. 
+2016-05-18 19:43:19,644 INFO  [Log] ASSERT PASSED: element inp_password is displayed. 
+2016-05-18 19:43:19,716 INFO  [Log] Login mercury and password mercuryhas enterned
+ 
+2016-05-18 19:43:19,759 INFO  [Log] ASSERT PASSED: element btn_signIn is displayed. 
+2016-05-18 19:43:20,855 INFO  [Log] Step: click btn_signIn
+ 
+2016-05-18 19:43:21,016 INFO  [Log] ASSERT PASSED: element rb_roundTrip is displayed. 
+2016-05-18 19:43:21,107 INFO  [Log] Step: roundtrip entered 
+2016-05-18 19:43:21,151 INFO  [Log] ASSERT PASSED: element lst_pssngr is displayed. 
+2016-05-18 19:43:21,205 INFO  [Log] Step: 1.0 entered 
+2016-05-18 19:43:21,243 INFO  [Log] ASSERT PASSED: element lst_dprtFrmCity is displayed. 
+2016-05-18 19:43:21,305 INFO  [Log] Step: London entered 
+2016-05-18 19:43:21,347 INFO  [Log] ASSERT PASSED: element lst_dprtOnMnth is displayed. 
+2016-05-18 19:43:21,415 INFO  [Log] Step: December entered  
+2016-05-18 19:43:21,453 INFO  [Log] ASSERT PASSED: element lst_dprtOnDt is displayed. 
+2016-05-18 19:43:21,513 INFO  [Log] Step: 15.0 entered 
+2016-05-18 19:43:21,561 INFO  [Log] ASSERT PASSED: element lst_arrvInCity is displayed. 
+2016-05-18 19:43:21,628 INFO  [Log] Step: New York entered 
+2016-05-18 19:43:21,670 INFO  [Log] ASSERT PASSED: element lst_rtnOnMnth is displayed. 
+2016-05-18 19:43:21,735 INFO  [Log] Step: December entered 
+2016-05-18 19:43:21,777 INFO  [Log] ASSERT PASSED: element lst_rtnOnDt is displayed. 
+2016-05-18 19:43:21,834 INFO  [Log] Step: 25.0 entered 
+2016-05-18 19:43:57,919 INFO  [Log] **************************************************************************************** 
+2016-05-18 19:43:57,920 INFO  [Log] **************************************************************************************** 
+2016-05-18 19:43:57,920 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Mercury Test       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-05-18 19:43:57,920 INFO  [Log] **************************************************************************************** 
+2016-05-18 19:43:57,920 INFO  [Log] **************************************************************************************** 
+2016-05-18 19:44:04,610 INFO  [Log] This is my info 
+2016-05-18 19:44:04,739 INFO  [Log] ASSERT PASSED: element inp_userName is displayed. 
+2016-05-18 19:44:05,727 INFO  [Log] ASSERT PASSED: element inp_password is displayed. 
+2016-05-18 19:44:05,794 INFO  [Log] Login mercury and password mercuryhas enterned
+ 
+2016-05-18 19:44:05,840 INFO  [Log] ASSERT PASSED: element btn_signIn is displayed. 
+2016-05-18 19:44:06,760 INFO  [Log] Step: click btn_signIn
+ 
+2016-05-18 19:44:06,996 INFO  [Log] ASSERT PASSED: element rb_roundTrip is displayed. 
+2016-05-18 19:44:07,086 INFO  [Log] Step: roundtrip entered 
+2016-05-18 19:44:07,128 INFO  [Log] ASSERT PASSED: element lst_pssngr is displayed. 
+2016-05-18 19:44:07,186 INFO  [Log] Step: 1.0 entered 
+2016-05-18 19:44:07,224 INFO  [Log] ASSERT PASSED: element lst_dprtFrmCity is displayed. 
+2016-05-18 19:44:07,296 INFO  [Log] Step: London entered 
+2016-05-18 19:44:07,342 INFO  [Log] ASSERT PASSED: element lst_dprtOnMnth is displayed. 
+2016-05-18 19:44:07,409 INFO  [Log] Step: December entered  
+2016-05-18 19:44:07,449 INFO  [Log] ASSERT PASSED: element lst_dprtOnDt is displayed. 
+2016-05-18 19:44:07,513 INFO  [Log] Step: 15.0 entered 
+2016-05-18 19:44:07,552 INFO  [Log] ASSERT PASSED: element lst_arrvInCity is displayed. 
+2016-05-18 19:44:07,625 INFO  [Log] Step: New York entered 
+2016-05-18 19:44:07,668 INFO  [Log] ASSERT PASSED: element lst_rtnOnMnth is displayed. 
+2016-05-18 19:44:07,734 INFO  [Log] Step: December entered 
+2016-05-18 19:44:07,779 INFO  [Log] ASSERT PASSED: element lst_rtnOnDt is displayed. 
+2016-05-18 19:44:07,827 INFO  [Log] Step: 25.0 entered 

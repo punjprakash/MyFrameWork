@@ -22,7 +22,7 @@ import org.testng.Reporter;
 
 /**
  *
- * @author prashantshukla
+ 
  */
 public class TakeScreenshot {
     

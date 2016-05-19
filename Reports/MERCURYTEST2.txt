@@ -1,0 +1,11 @@
+************************** - MERCURYTEST2 - STEPS TO REPRODUCE DEFECT - **************************
+
+Open App
+Login
+Enter Flight Details
+clickContinue
+enterDepartureAndReturn
+enterFlightDetails
+verifyText
+clickContinue
+

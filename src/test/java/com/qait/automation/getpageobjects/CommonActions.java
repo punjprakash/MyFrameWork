@@ -39,6 +39,7 @@ import org.testng.Reporter;
 
 import com.qait.automation.utils.LayoutValidation;
 import com.qait.automation.utils.SeleniumWait;
+import com.qait.automation.report.*;
 
 public class CommonActions {
 
@@ -63,7 +64,8 @@ public class CommonActions {
 	}
 
 	protected void logMessage(String message) {
-		Reporter.log(message, true);
+		//Reporter.log(message, true);
+		Log.info(message);
 	}
 
 	protected String getCurrentURL() {
@@ -448,7 +450,7 @@ public class CommonActions {
 		try {
 			elem = wait.waitForElementToBeVisible(driver
 					.findElement(locator));
-			logMessage("Element is searched :-- " + elementToken);
+			//logMessage("Element is searched :-- " + elementToken);
 		} catch (TimeoutException excp) {
 			throw new NoSuchElementException("Element " + elementToken
 					+ " with locator " + locator.toString().substring(2)

@@ -1,0 +1,68 @@
+			*******************************************************
+			Test Script Name	: MERCURYTEST2
+			Test Environment	: QA
+			Test Executed By	: PUNJPRAKASH
+			Java Version		: 1.8.0_65
+			OS Name / Version	: WINDOWS 10 / 10.0
+			Computer Name		: VAISHALI
+			Browser Name / Version	: FIREFOX / 45.0.2
+			Test Start Time		: Sun Apr 24 23:01:12 CDT 2016
+			Test End Time		: Sun Apr 24 23:01:26 CDT 2016
+			Script Execution Time	: 00:00:13
+			Total Number Of Steps	: 9
+			Script Execution Status	: PASS
+
+			*******************************************************
+
+Step 1		04/24/2016 23:01:19		PASS
+------------------------------------------------------------
+Description	: Open App
+Actual Result	: Application has been opened
+
+
+Step 2		04/24/2016 23:01:21		PASS
+------------------------------------------------------------
+Description	: Login
+Actual Result	: Login has been completed
+
+
+Step 3		04/24/2016 23:01:22		PASS
+------------------------------------------------------------
+Description	: Enter Flight Details
+Actual Result	: Flight Details have been entered
+
+
+Step 4		04/24/2016 23:01:23		PASS
+------------------------------------------------------------
+Description	: clickContinue
+Actual Result	: clickContinue has been done
+
+
+Step 5		04/24/2016 23:01:23		PASS
+------------------------------------------------------------
+Description	: enterDepartureAndReturn
+Actual Result	: enterDepartureAndReturn has been done
+
+
+Step 6		04/24/2016 23:01:24		PASS
+------------------------------------------------------------
+Description	: enterFlightDetails
+Actual Result	: enterFlightDetails has been done
+
+
+Step 7		04/24/2016 23:01:25		PASS
+------------------------------------------------------------
+Description	: verifyText
+Actual Result	: Text is not valid
+
+
+Step 8		04/24/2016 23:01:26		PASS
+------------------------------------------------------------
+Description	: clickContinue
+Actual Result	: clickContinue has been done
+
+
+
+		-------->[ End Of Script Execution ]<--------
+
+

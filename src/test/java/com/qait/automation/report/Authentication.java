@@ -4,7 +4,7 @@ import javax.mail.PasswordAuthentication;
 
 /**
  *
- * @author prashant
+
  */
 class Authenticator extends javax.mail.Authenticator {
         

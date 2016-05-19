@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<suite name="Test123" verbose="1" configfailurepolicy="continue" parallel="false" thread-count="3">
-	<test name="Test123" parallel="false">
+<suite name="MercurySuit" verbose="1" configfailurepolicy="continue" parallel="false" >
+	<test name="MercuryTest1" parallel="false">
 		<classes>
 			<class name="com.qait.tests.MercurySite_SmokeExcel"></class>
+			<methods>
+		        <include name="Step01_Launch_Application_Under_Test" />
+      		</methods>
 		</classes>
 	</test>
+	
 </suite>

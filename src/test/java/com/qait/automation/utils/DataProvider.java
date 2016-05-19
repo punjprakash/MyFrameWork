@@ -57,7 +57,7 @@ public class DataProvider {
 		try {
 			returnStr = csvLine.split(csvSeparator)[columnNumber];
 		} catch (ArrayIndexOutOfBoundsException ex) {
-			// Reporter.log(
+			// ReporterHTML.log(
 			// "Column Number "
 			// + columnNumber
 			// +

@@ -1,0 +1,16 @@
+			*******************************************************
+			Test Script Name	: MERCURYTEST1
+			Test Environment	: 
+			Test Executed By	: PUNJPRAKASH
+			Java Version		: 1.8.0_65
+			OS Name / Version	: WINDOWS 10 / 10.0
+			Computer Name		: VAISHALI
+			Browser Name / Version	: 
+			Test Start Time		: Sun May 01 19:23:04 CDT 2016
+			Test End Time: 
+			Script Execution Time: 
+			Total Number Of Steps: 
+			Script Execution Status: 
+			  						: 
+			*******************************************************
+

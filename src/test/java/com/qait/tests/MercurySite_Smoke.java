@@ -13,15 +13,19 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
+import com.google.common.base.Verify;
 import com.qait.automation.TestSessionInitiator;
+
+import com.qait.automation.report.*;
 import com.qait.automation.utils.DataProvider;
 import com.qait.automation.utils.YamlReader;
 import com.qait.pages.YamlInformationProvider;
 
 
-public class MercurySite_Smoke {
+public class MercurySite_Smoke  {
 	TestSessionInitiator test;
 	YamlInformationProvider getKeyValue;
 	Map<String, Object> mapMercury_testdata;
@@ -105,6 +109,7 @@ public class MercurySite_Smoke {
 				getKeyValueAACT.getMercuryBookAFlight_BookAFlight("LastName"),
 				getKeyValueAACT.getMercuryBookAFlight_BookAFlight("CCNumber"),
 				getKeyValueAACT.getMercuryBookAFlight_BookAFlight("CCType")
+				
 			);
 		test.Mercury_BookAFlight.clickContinue();
 

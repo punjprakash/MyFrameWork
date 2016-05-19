@@ -19,6 +19,7 @@ import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.safari.SafariDriver;
+import org.openqa.selenium.htmlunit.HtmlUnitDriver; 
 
 public class WebDriverFactory {
 
@@ -40,6 +41,8 @@ public class WebDriverFactory {
 				return getChromeDriver(seleniumconfig.get("driverpath"));
 			} else if (browser.equalsIgnoreCase("Safari")) {
 				return getSafariDriver();
+			}else if (browser.equalsIgnoreCase("html")) {
+					return getHtmlUnitDriver();
 			} else if ((browser.equalsIgnoreCase("ie"))
 					|| (browser.equalsIgnoreCase("internetexplorer"))
 					|| (browser.equalsIgnoreCase("internet explorer"))) {
@@ -107,6 +110,15 @@ public class WebDriverFactory {
 	private static WebDriver getSafariDriver() {
 		return new SafariDriver();
 	}
+	
+	private static WebDriver getHtmlUnitDriver() {
+		
+		WebDriver driver = new HtmlUnitDriver(true);
+		//((DesiredCapabilities) driver).setJavascriptEnabled(false);
+		return driver;
+		
+	}
+	
 
 	private static WebDriver getFirefoxDriver() {
 		FirefoxProfile profile;

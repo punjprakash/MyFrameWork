@@ -74,9 +74,9 @@ public class MercurySite_SmokeExcel1TC {
 	/*@Test(priority=1,dataProvider="getLoginData")
 	public void OpenBrowserWindow(Hashtable<String,String> data) {
 		try{
-		Reporter.log("****** TestSessionInitiator  ******\n", true);
+		ReporterHTML.log("****** TestSessionInitiator  ******\n", true);
 		test = new TestSessionInitiatorExcel(testCaseName,appName);
-		Reporter.log("****** TestSessionInitiator2  ******\n", true);
+		ReporterHTML.log("****** TestSessionInitiator2  ******\n", true);
 		
 		//*********************Change it
 		//dataXLS = new Xls_Reader(excelFilePath);

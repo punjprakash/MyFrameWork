@@ -11,7 +11,7 @@ import java.util.ArrayList;
 /**
  * This class reads the PageObjectRepository text files. Uses buffer reader.
  * 
- * @author prashantshukla
+ * 
  * 
  */
 public class ObjectFileReader {

@@ -1,0 +1,32 @@
+			*******************************************************
+			Test Script Name	: MERCURYTEST1
+			Test Environment	: 
+			Test Executed By	: PUNJPRAKASH
+			Java Version		: 1.8.0_65
+			OS Name / Version	: WINDOWS 10 / 10.0
+			Computer Name		: VAISHALI
+			Browser Name / Version	: 
+			Test Start Time		: Sun May 01 19:26:19 CDT 2016
+			Test End Time		: Sun May 01 19:26:22 CDT 2016
+			Script Execution Time	: 00:00:03
+			Total Number Of Steps	: 3
+			Script Execution Status	: FAIL
+			Failed at Step Number	: 3
+			*******************************************************
+
+Step 1		05/01/2016 19:26:21		PASS
+------------------------------------------------------------
+Description	: Open App
+Actual Result	: Application has been opened
+
+
+Step 2		05/01/2016 19:26:22		PASS
+------------------------------------------------------------
+Description	: Login
+Actual Result	: Login has been completed
+
+
+
+		-------->[ End Of Script Execution ]<--------
+
+
