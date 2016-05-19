@@ -2,7 +2,7 @@
 <suite name="ASR Checkout" verbose="1" configfailurepolicy="continue">
     <test name="ASR Cancle Scripts" thread-count="10">
         <classes>
-        	<class name="com.qait.tests.ASR_TACancle" />
+        	<class name="com.qait.tests.ASR_TACancled" />
         </classes>
     </test>
 
